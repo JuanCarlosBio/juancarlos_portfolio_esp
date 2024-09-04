@@ -21,7 +21,7 @@ repository               : "https://github.com/JuanCarlosBio/juancarlos_portfoli
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "Foto_Juan_Carlos.png"
   name             : "Juan Carlos García Estupiñán"
   pronouns         : # example: "she/her"  
   bio              : "Biólogo especializado en Bioinformática, fanático de las ciencias de la vida y el uso de nuevas tecnologías para resolver problemas"
