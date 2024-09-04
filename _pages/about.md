@@ -13,7 +13,7 @@ Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas a
 
 <div class="row">
   <div class="container">
-    <img class="left" src="/images/profile2.jpg" style="width: 280px; height: 330px;">
+    <img class="left" src="/images/profile2.png" style="width: 280px; height: 330px;">
     <p>
     Soy graduado en Biología por la <i>Universidad de La Laguna (ULL)</i>, debido a mi interés de las ciencias de la vida y de cómo tomar decisiones en base al conocimiento científico para resolver problemas.
     </p>
