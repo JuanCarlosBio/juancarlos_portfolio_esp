@@ -32,7 +32,7 @@ Mis estudios académicos me han dado oportunidades laborales tales como trabajar
 
 ### Si quieres ahondar más sobre mí, y conocer en mayor detalle mi perfil, te invito a leer el resto de contenido de esta web:
 
-* [Mi Curriculum Vitae Electrónico (*e-CV*)](/menu1/)
+* [Mi Curriculum Vitae (versión digital)](/cv/)
 * [Mis habilidades](/menu2/)
 * [Mi Experiencia Profesional](/menu3/)
 * [Proyectos de usando programación/tecnologías](/menu4)
