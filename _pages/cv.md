@@ -9,56 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Máster Oficial en Bioinformática, Universidad Internacional de Valencia (VIU), 2023
+* Grado en Biología, Univeridad de La Laguna (ULL), 2022
 
-Work experience
+Experiencia profesional
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2023 - ACTUALIDAD**: Servicio Técnico de Medio Ambiente
+  * Institución: Cabildo de Gran Canaria
+  * Puesto desempeñado: Técnico superior Biólogo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2022, Duración 3 meses**: Servicio de Apoyo a la Investigación (SEGAI)
+  * Institución: Universidad de La Laguna
+  * Puesto desempeñado: Técnico de estabulario - animalario
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Otra experiencia: programador
 
-Publications
+Como gran aficionado de la informática me he dedicado a hacer proyectos informáticos / análisis de datos, que me han ayudado tanto a lo largo de mis estudios como a complementar mi trabajo:
+
+* *"El juego es la forma más elevada de investigación" - Albert Einstein*
+* 2021 - ACTUALIDAD: Proyectos de de programación/analista de datos en mi [<u>***GitHub***</u>](https://github.com/JuanCarlosBio)
+
+Habilidades
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Proactivo
+* Con iniciativa
+* Ganas de aprender
+* Comprometido
+* Comunicación
+* Trabajo en equipo
+* Resolución de problemas
+* Adaptabilidad
+* Creatividad
+* Informática
+
+Si quieres ahondar más sobre mis habilidades te recomeinto ver la página "[*<u>Habilidades</u>*]()"
   
-Talks
+Otras aficiones
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Para que me conozcas mejor, otros intereses que tengo como hobbies:
+* Hacer ejercicio, cuerpo sano mente sana:
+  * Levantamiento de pesas, correr, senderismo, natación. 
+* Lectura:
+  * Ahora mismo me estoy leyendo <i>Charles Darwin y el Origen  de las especies</i>.
+* Música:
+  * Tanto escucharla como tocar el bajo eléctrico de forma recreativa.
