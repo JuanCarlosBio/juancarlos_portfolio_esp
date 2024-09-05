@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## **!Hola :wave: y bienvenido a esta web!**
+## **!Hola 👋 y bienvenido a esta web!**
 
 Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi Portfolio</u>:
 

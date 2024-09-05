@@ -12,7 +12,7 @@ title                    : "Mi Portfolio"
 title_separator          : "-"
 name                     : &name "Juan Carlos García Estupiñán"
 description              : &description "personal description"
-url                      : https://juancarlosbio.github.io/juancarlos_portfolio_esp.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://juancarlosbio.github.io/juancarlos_portfolio_esp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/JuanCarlosBio/juancarlos_portfolio_esp.github.io"
 
