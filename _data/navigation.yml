@@ -6,17 +6,17 @@
 
 main:
   
-  - title: "<i>e-CV</i>"
+  - title: "CV"
     url: /cv/
 
   - title: "Habilidades"
-    url: /teaching/
+    url: /habilidades/
 
   - title: "Experiencia"
     url: /experiencia/
 
   - title: "Proyectos"
-    url: /publications/
+    url: /proyectos/
 
 #  - title: "Publications"
 #    url: /publications/
