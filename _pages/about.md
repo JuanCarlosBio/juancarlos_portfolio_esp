@@ -32,7 +32,7 @@ Mis estudios académicos me han dado oportunidades laborales tales como trabajar
 
 ### Si quieres ahondar más sobre mí, y conocer en mayor detalle mi perfil, te invito a leer el resto de contenido de esta web:
 
-* [Mi Curriculum Vitae (versión digital)](/cv/)
-* [Mis habilidades](/menu2/)
-* [Mi Experiencia Profesional](/menu3/)
-* [Proyectos de usando programación/tecnologías](/menu4)
+* [Mi Curriculum Vitae (versión digital)](https://juancarlosbio.github.io/juancarlos_portfolio_esp//cv/)
+* [Mis habilidades](https://juancarlosbio.github.io/juancarlos_portfolio_esp//habilidades/)
+* [Mi Experiencia Profesional](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/)
+* [Mis Proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)

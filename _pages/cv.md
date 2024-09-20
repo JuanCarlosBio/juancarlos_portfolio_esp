@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV: versión digital"
+title: "📋 <u>Mi <i>Curriculum Vitae</i> en versión digital</u>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
 ======
 * **2023 - ACTUALIDAD**: Servicio Técnico de Medio Ambiente
   * Institución: Cabildo Insular de Gran Canaria
-  * Puesto desempeñado: 🌲 Técnico superior Biólogo
+  * Puesto desempeñado: 🌲 Técnico de Medio Ambiente / Graduado en Biólogo
 
 * **2022, Duración 3 meses**: Servicio de Apoyo a la Investigación (SEGAI)
   * Institución: Universidad de La Laguna
@@ -52,8 +52,8 @@ Si quieres ahondar más sobre mis habilidades <u>específicas</u>, te recomeinto
 Otra información
 ===
 
-* 🚗 Permiso de conducir B
-* ✈ Disponibilidad para viajar️
+* 🚗 **Permiso de conducir B**
+* ✈ **Disponibilidad para viajar️**
   
 Otras aficiones
 ======
