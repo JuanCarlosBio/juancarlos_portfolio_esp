@@ -24,7 +24,7 @@ redirect_from:
   * Institución: Universidad de La Laguna
   * Puesto desempeñado: 🐁 Técnico de estabulario - animalario
 
-### Otra experiencia: 👩‍💻 programador
+### Otra experiencia: 👩‍💻 <u>Programador</u> 
 
 Como gran aficionado de la informática me he dedicado a hacer proyectos informáticos / análisis de datos, que me han ayudado tanto a lo largo de mis estudios como a complementar mi trabajo:
 
