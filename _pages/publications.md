@@ -17,7 +17,7 @@ Proyectos 2024
 ## <u>Estancia en el Cabildo de Gran Canaria (Medio Ambiente)</u> 🥾 
 
 <div style="float: right; margin-left: 20px;">
-  <img src="../images/GC_mapa.png" width="150px">
+  <img src="../images/GC_mapa.png" width="250px">
 </div>
 
 ### Web de Especies de la isla de Gran Canaria observadas 🐜 🌱
@@ -36,7 +36,7 @@ Tengo hecho el flujo de trabajo, pero me gustaría mejorar el Sitio WEB.
 
 [Repositorio Salidas_de_Campo_CabildoGC](https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/) | [🌍 Sitio WEB](https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/)
 
-* ### Cuadrículas 100 x 100 Para búsqueda de especies Python
+* ### Cuadrículas 100 x 100 Para búsqueda de especies Python 🌷🐜🔍
 
 **Descripción:** Flujo de Trabajo para crear cuadrículas 100 x 100 (m<sup>2</sup>) en los Espacios Naturales Protegidos, mediante el uso de Python. La idea es tener cuadrículas para cargar en IGN y guiarse mejor en estos espacios y anotar especies.
 
@@ -53,7 +53,7 @@ Este proyecto fue mi <u>primer proyecto de desarrollo WEB</u>.
 <u><strong>El objetivo final es crear un GIF con la evolución de la sequía del año 2024 en comparación con los últimos 30 años de las estaciones NOAA</strong></u>. 
 
 <p align="center">
-<img src="../images/precipitaciones_canarias.png" width="700px">
+<img src="https://github.com/JuanCarlosBio/tiempo_canarias_noaa/blob/main/figures/precipitaciones_canarias.png?raw=true" width="700px">
 </p>
 
 [Repositorio de GitHub tiempo_canarias_noaa](https://github.com/JuanCarlosBio/tiempo_canarias_noaa/) | [🌍 sitio WEB](https://juancarlosbio.github.io/tiempo_canarias_noaa/)
@@ -90,20 +90,36 @@ Proyectos 2023
 ## <u>Otras asignaturas del máster (2023)</u> 🧬 👨‍💻 📈
 
 ### Actividades de Secuenciación Genómica (VIU)
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://www.pssi.com/wp-content/uploads/2022/01/GenomeSequencing-Pic1.png
+" width="170px">
+</div>
+
+
 **Descripción**: Código empleado para resolver problemas de la asignatura Secuenciación Genómica
 
 * [Repositorio de las actividades de Secuenciación Genómica](https://github.com/JuanCarlosBio/Secuenciacion_Genomica_VIU)
 
 ### Actividades de Trasncriptómica (VIU)
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://microbenotes.com/wp-content/uploads/2022/07/RNA-Sequencing.jpg" width="170px">
+</div>
+
 **Descripción**: Código empleado para resolver problemas de la asignatura Trascriptómica (RNA-SEQ)
 
 * [Repositorio de las actividades de Transcriptómica](https://github.com/JuanCarlosBio/RNA-Seq_VIU)
 
-### Actividades de Metagenómica/Metataxonómica (VIU)
+### Actividades de Datos Ómicos para Poblaciones (VIU)
 
-**Descripción**: Código empleado para resolver problemas de la asignatura Metagenómica y Metataxonómica. 
+<div style="float: right; margin-left: 20px;">
+  <img src="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-101-1-1024x615.png" width="170px">
+</div>
 
-* [Repositorio de las actividades de Transcriptómica](https://github.com/JuanCarlosBio/RNA-Seq_VIU)
+**Descripción**: Código empleado para resolver problemas de la asignatura Datos Ómicos para Poblaciones, en concreto las ómicas que estudiamos fueron la Metagenómica y Metataxonómica. 
+
+* [Repositorio de las actividades de Datos Ómicos para Poblaciones](https://github.com/JuanCarlosBio/Analisis_Datos_Omicos_Poblaciones)
 
 --- 
 
@@ -160,6 +176,11 @@ Proyectos de 2021
 
 Aprendí programación de forma autodidacta para analizar mis datos de las últimas asignaturas de Cuarto de Carrera. <u>El lenguaje de programación con el que empecé fue R</u> y tengo el código que usé para los análsis. Lo he usado también para probar cosas que he ido aprendiendo, con lo que a veces lo modifico para jugar con el.
 
-Asignaturas optativas elegidas: Fisiología Animal Aplicada, Aplicaciones de la Fisiología Vegetal, Microbiología Aplicada, Avances en Bioquímica y Biología Molecular, Genética Evolutiva.
+* <u>Asignaturas optativas para la especialidad:</u> 
+  * 🐁 Fisiología Animal Aplicada
+  * 🌱 Aplicaciones de la Fisiología Vegetal
+  * 🧫 Microbiología Aplicada
+  * 🧪 Avances en Bioquímica y Biología Molecular 
+  * 🧬 Genética Evolutiva.
 
 * [Análisis de datos de las asignaturas de Cuarto de Carrera de Biología](https://github.com/JuanCarlosBio/cuarto_carrera)
