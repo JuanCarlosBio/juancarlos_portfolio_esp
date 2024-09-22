@@ -12,7 +12,8 @@ redirect_from:
 Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi Portfolio</u>:
 
 <div style="float: right; margin-left: 20px;">
-  <img src="../images/profile2.png" alt="Aventuras en el barranco de Azuaje" width="200px">
+  <img src="../images/profile2.png" width="200px">
+  <figcaption><p style="font-size: 12px;">Aventuras por el Barranco de Azuaje.</p></figcaption>
 </div>
 
 <p>
@@ -26,7 +27,7 @@ Por otra parte, me encanta la informática, lo que me permite analizar mis datos
 Mis estudios académicos me han dado oportunidades laborales tales como trabajar en el Servicio de Apoyo a la Investigación (SEGAI) de la universidad de la Laguna (ULL), donde trabajé como técnico de estabilario y animalario. En la actualidad me encuentro en una estancia en el Servicio Técnico de Medio Ambiente del Cabildo de Gran Canaria como técnico superior biólogo.
 
 
-¿Cual es mi objetivo profesional?
+¿Cuál es mi objetivo profesional?
 ======
 * Mi enfoque profesional está orientado hacia el desarrollo de habilidades técnicas, ya que creo firmemente en su valor para **<u>resolver problemas complejos</u>** y aportar soluciones prácticas en el ámbito laboral. Mi principal interés es seguir creciendo como **<u>técnico especializado</u>**, combinando mis conocimientos académicos con la experiencia que adquiera, para enfrentar con eficacia los desafíos del mundo profesional.
 
