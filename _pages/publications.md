@@ -22,11 +22,11 @@ Proyectos 2024
 
 ### Web de Especies de la isla de Gran Canaria observadas 🐜 🌱
 
-<p>
-<strong>Descripción</strong>: Esta WEB fue creada para la observación de especies localizadas <i>in situ</i>. Consiste en una serie de páginas puedos observar las especies en visores, tablas interactivas y estadísticas. 
-</p>
+<strong>Descripción</strong>: Esta WEB fue creada para la observación de especies localizadas <i>in situ</i> mediante la toma de las muestras con fotografías con el móvil georeferenciadas 📱📷🌍. Consiste en una serie de páginas puedos observar las especies en visores, tablas interactivas y estadísticas. 
 
-[Repositorio de GitHub BiodiversidadGJC](https://github.com/JuanCarlosBio/BiodiversidadGJC) | [🌍 Sitio WEB](https://juancarlosbio.github.io/BiodiversidadGJC/)
+Las especies que busco por el momento son <u>animales invertebrados y plantas</u>. No descarto otros organismos en el futuro.
+
+[Repositorio de GitHub BiodiversidadGJC](https://github.com/JuanCarlosBio/BiodiversidadGJC) | [🌐 Sitio WEB](https://juancarlosbio.github.io/BiodiversidadGJC/)
 
 ### Web de senderos obtenidos por la aplicación IGN 🗺️
 
@@ -34,7 +34,7 @@ Proyectos 2024
 
 Tengo hecho el flujo de trabajo, pero me gustaría mejorar el Sitio WEB.
 
-[Repositorio Salidas_de_Campo_CabildoGC](https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/) | [🌍 Sitio WEB](https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/)
+[Repositorio Salidas_de_Campo_CabildoGC](https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/) | [🌐 Sitio WEB](https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/)
 
 ### Cuadrículas 100 x 100 Para búsqueda de especies Python 🌷🐜🔍
 
@@ -56,7 +56,7 @@ Este proyecto fue mi <u>primer proyecto de desarrollo WEB</u>.
 <img src="https://github.com/JuanCarlosBio/tiempo_canarias_noaa/blob/main/figures/precipitaciones_canarias.png?raw=true" width="700px">
 </p>
 
-[Repositorio de GitHub tiempo_canarias_noaa](https://github.com/JuanCarlosBio/tiempo_canarias_noaa/) | [🌍 sitio WEB](https://juancarlosbio.github.io/tiempo_canarias_noaa/)
+[Repositorio de GitHub tiempo_canarias_noaa](https://github.com/JuanCarlosBio/tiempo_canarias_noaa/) | [🌐 sitio WEB](https://juancarlosbio.github.io/tiempo_canarias_noaa/)
 
 ### Análisis de Base de Datos de Tortugas Marinas usando Julia. 
 
@@ -70,7 +70,7 @@ Además me introduje al uso de FramWorks para desarrollo WEB mediante el paquete
 
 <u>En estos momentos es un proyecto inacabado</u>.
 
-[Repositorio de GitHub para el análisis con Julia de Tortugas marinas](https://github.com/JuanCarlosBio/turtles_julia_analysis) | [🌍 Sitio WEB](https://juancarlosbio.github.io/turtles_julia_analysis/)
+[Repositorio de GitHub para el análisis con Julia de Tortugas marinas](https://github.com/JuanCarlosBio/turtles_julia_analysis) | [🌐 Sitio WEB](https://juancarlosbio.github.io/turtles_julia_analysis/)
 
 
 --- 
@@ -154,6 +154,7 @@ Cabe destacar que me especialicé además en el Sistema Operativo Linux, lo que 
 
 <div style="float: right; margin-left: 20px;">
   <img src="../images/tahonilla_tortugas.jpg" width="250px">
+    <figcaption><p style="font-size: 12px;">Visita a las instalaciones de tortugas de La Tahonilla.</p></figcaption>
 </div>
 
 **Descripción**: Después de aprender de forma autodidacta programación en R, puse a prueba mis habilidades en analizar una base de datos de tortugas marinas varadas registradas por el Centro de Recuperación de Fauna Silvestre La Tahonilla perteneciente al Cabildo de Tenerife. 

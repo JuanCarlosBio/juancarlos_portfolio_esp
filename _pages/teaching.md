@@ -1,62 +1,63 @@
 ---
 layout: archive
-title: "Habilidades que he adquirido"
+title: "<u>Mis habilidades</u>"
 permalink: /habilidades/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Tabla de contenidos
+# 👨‍🔬 Mis habilidades específicas durante la carrera de Biología de Biología
+---
 
-* [Habilidades como Biólgo](#habilidades-como-biólgo)
-* [Habilidades como especialista en Bioinformática](#habilidades-como-especialista-en-bioinformática)
-* [Habilidades autodidactas](#habilidades-autodidactas)
-  * [Programación](#programación) 
-  * [Técnico de Medio Ambiente](#estancia-en-el-servicio-técnico-de-medio-ambiente)
+### 🥼 <u>Técnicas de laboratorio aplicadas a biología</u>
 
-# Habilidades como Biólgo
+<div style="float: right; margin-left: 20px;">
+  <img src="https://plus.unsplash.com/premium_photo-1661306499492-297866c7f2a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmlvbG9neSUyMGxhYnxlbnwwfHwwfHx8MA%3D%3D" width="200px">
+</div>
 
-* Técnicas de laboratorio aplicadas a biología
-* Técnicas experimentales en Biología
-* Salidas de campo
-* Resolución de problebas
-* <u>Pensamiento crítico</u>
+Como biólogo me he especializado al análisis en laboratorio en diferentes campos, como vienen a ser bioquímica/biología Molecular, biología celular/tisular, análisis microbiológico, fisiología animal/vegetal. 
 
-# Habilidades como especialista en Bioinformática
+Esto me ha prepara para trabajar en ámbitos Sanitarios, Farmaceúticos, Industriales e Investigación.
+
+### 🥾 <u>Técnicas experimentales en Biología</u>
+
+<div style="float: left; margin-right: 20px;">
+  <img src="https://cobcm.net/wp-content/uploads/2019/02/environmental-protection-683437_1280-742x412.jpg"
+ width="250px">
+</div>
+
+Nos acercamos a un mundo en continua evolución, el cambio climático promueve y los factores ambientales pueden provocar péridas a las empresas. Mi pérfil se ha formado a base de estudios de geología, edafología, zoología, botánica y ecología de especies está preparado para interpretar, planificar y diseñar el territorio y el paisaje.
+
+De esta manera puedo realizar evaluaciones de impacto ambiental, diagnosticar y solucionar problemas medioambientales. 
+
+### 💡 <u>Visión científica: pensamiento crítico</u> 
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/2755/2755549.png"
+ width="150px">
+</div>
+
+Creo que una de las habilidades más importantes de una carrera científica que lo diferencia de otras es el hecho de someternos a metodologías como la del método científico, lo que nos hace tener un pensamiento crítico ante las soluciones, dandonos facilidades para identificar y resolver problemas. Creo que es una habilidad muy útil para aquellos personales técnicos. 
+
+### <u>Aprendizaje autónomo de 👨‍💻 Informática y 📈 Análsis de Datos</u> 
+
+Mi último años de carrera puse en práctica el punto anterior, me dí cuenta que a pesar de que los biólogos tengamos técnicas útiles en algunos sectores como laboratorio o empresas de medioambiente, carecemos de competencias que otras carreras pueden tener aún más técnicas. Además somos muchos con las mismas habilidades así que decidí diferenciarme.
+
+No es una mentira que los estudiantes de biología tengamos asignaturas como <u><strong>computación</strong></u> y <u><strong>estadística</strong></u>, pero si es verdad que la carrera se centra sobre todo en técnicas de laboratorio y campo, lo que nos deja a los biólogos en una situación de desventaja frente a otros científicos como químicos, físicos, matemáticos e ingenieros ya que son habilidades imprescindibles en el siglo XXI. 
+
+Es por ello que <u><strong>profundicé de forma autodidacta programación</strong></u> y análisis de datos en mi último año de carrera, de lo cual a día de hoy no me arrepiento, me ha . Me ha abierto la mente a una nueva forma de aprender.
+
+### <u>Conocimientos transversales</u>
+
+Obviamente una carrera en ciencias te da habilidades de comunicación, búsqueda de información compleja e interpretación de información compleja, ofimática que me hace un ferfil confiable en ámbitos como: finanzas, comercio/marketing de productos, IT... 
+
+# 👨‍💻 Mis habilidades como especialista en Bioinformática
+
+---
 
 * Gestión de Big Data (Ómicas)
 * Técnicas de secuenciación genímica
 * Técnicas de Trascriptómica
 * Metagenómica y metataxonómica
 * Proteómica
-
-# Habilidades autodidactas
-
-### Programación
-
-Realmente las habilidades en programación no me las han enseñado, sino que las he aprendido por mi cuenta. Te pueden enseñar algún truco, pero nadie va a programar por tí, ni con las nuevas tecnologías de IA.
-
-Llevo realizando proyectos propios para mejorar estas habilidades desde el 2021, a veces por libre, otras por proyectos de educación o para entender mis datos en el trabajo...
-
-* **Lenguajes que he usado en mayor medida**: 
-  * R
-  * Python
-  * Bash
-* **Lenguajes que he usado en menor medida**:
-  * HTML y CSS (para el que los consider lenguajes)
-  * JavaScript
-  * Julia
-* **Lenguajes que me gustaría aprender**
-  * C y C++
-  * Y los que hagan falta
-
-### Estancia en el Servicio técnico de Medio Ambiente:
-
-Además durante mi etapa en el Cabildo he aprendido a usar herramientas SIG de manera básica, pero si necesitara 
-
-Herramientas de análisis de análisis Geoespaciales:
-
-* <u>QGIS</u> (en mayor medida) ARCGIS (menor medida) 
-* Visores online como: IDECanarias e IDEGranCanaria (GRAPHCAN)
-
