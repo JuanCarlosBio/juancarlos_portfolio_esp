@@ -36,7 +36,7 @@ Tengo hecho el flujo de trabajo, pero me gustaría mejorar el Sitio WEB.
 
 [Repositorio Salidas_de_Campo_CabildoGC](https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/) | [🌍 Sitio WEB](https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/)
 
-* ### Cuadrículas 100 x 100 Para búsqueda de especies Python 🌷🐜🔍
+### Cuadrículas 100 x 100 Para búsqueda de especies Python 🌷🐜🔍
 
 **Descripción:** Flujo de Trabajo para crear cuadrículas 100 x 100 (m<sup>2</sup>) en los Espacios Naturales Protegidos, mediante el uso de Python. La idea es tener cuadrículas para cargar en IGN y guiarse mejor en estos espacios y anotar especies.
 
