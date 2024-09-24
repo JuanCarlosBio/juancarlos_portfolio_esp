@@ -16,37 +16,48 @@ author_profile: true
   <img src="https://plus.unsplash.com/premium_photo-1661306499492-297866c7f2a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmlvbG9neSUyMGxhYnxlbnwwfHwwfHx8MA%3D%3D" width="200px">
 </div>
 
-Como biólogo me he especializado al análisis en laboratorio en diferentes campos, como vienen a ser bioquímica/biología Molecular, biología celular/tisular, análisis microbiológico, fisiología animal/vegetal. 
+Durante mi formación en biología, adquirí experiencia en técnicas de bioquímica, biología molecular, biología celular, análisis microbiológico y fisiología animal y vegetal. 
 
-Esto me ha prepara para trabajar en ámbitos Sanitarios, Farmaceúticos, Industriales e Investigación.
+Estas habilidades me capacitan para desempeñarme en los sectores sanitario, farmacéutico, industrial y de investigación.
 
 ### 🥾 <u>Técnicas experimentales en Biología</u>
 
 <div style="float: left; margin-right: 20px;">
   <img src="https://cobcm.net/wp-content/uploads/2019/02/environmental-protection-683437_1280-742x412.jpg"
- width="250px">
+ width="220px">
 </div>
 
-Nos acercamos a un mundo en continua evolución, el cambio climático promueve y los factores ambientales pueden provocar péridas a las empresas. Mi pérfil se ha formado a base de estudios de geología, edafología, zoología, botánica y ecología de especies está preparado para interpretar, planificar y diseñar el territorio y el paisaje.
+Mi formación abarca geología, edafología, zoología, botánica y ecología, lo que me permite interpretar, planificar y diseñar el territorio y el paisaje. 
 
-De esta manera puedo realizar evaluaciones de impacto ambiental, diagnosticar y solucionar problemas medioambientales. 
+Esto me ha capacitado para realizar evaluaciones de impacto ambiental, diagnosticar problemas medioambientales y proponer soluciones eficaces, ayudando a mitigar riesgos en un entorno en constante cambio.
 
 ### 💡 <u>Visión científica: pensamiento crítico</u> 
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://cdn-icons-png.flaticon.com/512/2755/2755549.png"
- width="150px">
+ width="100px">
 </div>
 
-Creo que una de las habilidades más importantes de una carrera científica que lo diferencia de otras es el hecho de someternos a metodologías como la del método científico, lo que nos hace tener un pensamiento crítico ante las soluciones, dandonos facilidades para identificar y resolver problemas. Creo que es una habilidad muy útil para aquellos personales técnicos. 
+Una de las habilidades clave en la formación científica es el pensamiento crítico, desarrollado a través del uso riguroso del método científico. Esta capacidad facilita la identificación y resolución de problemas, siendo una herramienta valiosa para perfiles técnicos en cualquier sector.
 
 ### <u>Aprendizaje autónomo de 👨‍💻 Informática y 📈 Análsis de Datos</u> 
 
-Mi último años de carrera puse en práctica el punto anterior, me dí cuenta que a pesar de que los biólogos tengamos técnicas útiles en algunos sectores como laboratorio o empresas de medioambiente, carecemos de competencias que otras carreras pueden tener aún más técnicas. Además somos muchos con las mismas habilidades así que decidí diferenciarme.
+<div style="float: right; margin-left: 20px;">
+  <img src="https://cromospharma.com/wp-content/uploads/2022/09/Web-Biostatistics.jpg"
+ width="150px">
+</div>
 
-No es una mentira que los estudiantes de biología tengamos asignaturas como <u><strong>computación</strong></u> y <u><strong>estadística</strong></u>, pero si es verdad que la carrera se centra sobre todo en técnicas de laboratorio y campo, lo que nos deja a los biólogos en una situación de desventaja frente a otros científicos como químicos, físicos, matemáticos e ingenieros ya que son habilidades imprescindibles en el siglo XXI. 
 
-Es por ello que <u><strong>profundicé de forma autodidacta programación</strong></u> y análisis de datos en mi último año de carrera, de lo cual a día de hoy no me arrepiento, me ha . Me ha abierto la mente a una nueva forma de aprender.
+Durante mi último año de carrera, me di cuenta de la importancia de diferenciarme en un campo tan competitivo. Aunque la biología incluye materias como computación y estadística, el enfoque suele estar en técnicas de laboratorio y campo, lo que nos deja en desventaja frente a otras disciplinas más técnicas.
+
+<div style="float: left; margin-right: 20px;">
+  <img src="https://miro.medium.com/v2/resize:fit:1008/1*pgHLTpv2-qNpPgNe7iuofQ.png
+"
+ width="150px">
+</div>
+
+Por ello, decidí profundizar de manera autodidacta en programación y análisis de datos, habilidades esenciales en el siglo XXI. Este aprendizaje ha ampliado mi perspectiva y me ha brindado nuevas oportunidades profesionales.
+
 
 ### <u>Conocimientos transversales</u>
 
@@ -56,8 +67,24 @@ Obviamente una carrera en ciencias te da habilidades de comunicación, búsqueda
 
 ---
 
-* Gestión de Big Data (Ómicas)
-* Técnicas de secuenciación genímica
-* Técnicas de Trascriptómica
-* Metagenómica y metataxonómica
-* Proteómica
+<div style="float: left; margin-right: 20px;">
+  <img src="https://summercamps.dnalc.org/images/biocoding.jpg"
+ width="250px">
+</div>
+
+Tras finalizar mis estudios en Biología, decidí especializarme en Bioinformática, combinando mi interés por la programación con el análisis de datos biológicos.
+
+Me adentré en el análisis de Big Data, trabajando con secuencias de ADN y proteínas en distintas áreas "ómicas". Aprendí a desarrollar flujos de trabajo y pipelines bioinformáticos para la secuenciación de genomas, transcriptomas, análisis metagenómicos y proteómicos.
+
+Aunque la bioinformática se centra en datos biológicos, las metodologías y tecnologías que he adquirido (como Git, Conda, Snakemake) son aplicables a otros proyectos de Ciencia de Datos. Puedes explorar algunos de los proyectos en los que he trabajado en la página:
+
+* ### ➡️[Proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
+
+
+# 💼 Mis Habilidades como profesional
+
+---
+
+Para conocer cómo he aplicado mis conocimientos en el ámbito laboral, te invito a visitar la página sobre mi experiencia:
+
+* ### ➡️ [!Experiencia Profesional!](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/) 

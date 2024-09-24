@@ -76,6 +76,12 @@ Otra información
 
 * 🚗 **Permiso de conducir B**
 * ✈ **Disponibilidad para viajar️**
+
+Idiomas
+===
+
+* 🇪🇸 Español: nativo
+* 🇬🇧 Inglés: avanzado
   
 Otras aficiones
 ======
