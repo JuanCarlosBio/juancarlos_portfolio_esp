@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<u>Mis habilidades</u>"
+title: "🛠️<u>Mis habilidades</u>"
 permalink: /habilidades/
 author_profile: true
 ---

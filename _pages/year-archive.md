@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /experiencia/
-title: "Experiencia Profesional"
+title: "💼 Experiencia Profesional"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-2024 - ACTUALIDAD Servicio técnico de Medio Ambiente
+2024 - <u>ACTUALIDAD Cabildo Insular de Gran Canaria</u>
 ===
 
-He trabajado en el Cabildo Insular de Gran Canaria gracias a la oferta de la beca Nuevas Oportunidades de empleo (NOE). 
+Actualmente trabajo en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> gracias a la oportunidad proporcionada por la Beca Nuevas Oportunidades de Empleo (NOE). 
 
 Agunas de las labores:
 
