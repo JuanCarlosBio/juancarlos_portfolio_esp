@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "<u>🚀 Proyectos Personales</u>"
+title: "🚀 <u>Proyectos Personales</u>"
 permalink: /proyectos/
 author_profile: true
 ---
+
+{% include base_path %}
 
 Debido a mi gran interés por la informática, he desarrollado proyectos personales enfocados en el análisis de datos, con un especial interés en datos de origen biológico. Este enfoque me ha permitido adquirir habilidades prácticas en la gestión y procesamiento de información compleja.
 
@@ -22,17 +24,17 @@ Proyectos 2024
 
 ### Web de Especies de la isla de Gran Canaria observadas 🐜 🌱
 
-<strong>Descripción</strong>: Esta WEB fue creada para la observación de especies localizadas <i>in situ</i> mediante la toma de las muestras con fotografías con el móvil georeferenciadas 📱📷🌍. Consiste en una serie de páginas puedos observar las especies en visores, tablas interactivas y estadísticas. 
+<strong>Descripción</strong>: Esta web fue creada para la observación de especies localizadas <i>in situ</i> mediante la toma de muestras georreferenciadas a través de fotografías con el móvil 📱📷🌍. La plataforma consta de varias páginas donde se pueden observar las especies en visores, tablas interactivas y estadísticas.
 
-Las especies que busco por el momento son <u>animales invertebrados y plantas</u>. No descarto otros organismos en el futuro.
+Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y plantas</u>, aunque no descarto incluir otros organismos en el futuro.
 
 [Repositorio de GitHub BiodiversidadGJC](https://github.com/JuanCarlosBio/BiodiversidadGJC) | [🌐 Sitio WEB](https://juancarlosbio.github.io/BiodiversidadGJC/)
 
 ### Web de senderos obtenidos por la aplicación IGN 🗺️
 
-**Descripción**: En esta WEB subo algunos senderos de los que he obtenido el KML a partir de archivos GPX obtenidos de la aplicación IGN.
+**Descripción**: En esta web comparto senderos obtenidos en formato KML a partir de archivos GPX generados con la aplicación del IGN.
 
-Tengo hecho el flujo de trabajo, pero me gustaría mejorar el Sitio WEB.
+He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web para optimizar la experiencia del usuario.
 
 [Repositorio Salidas_de_Campo_CabildoGC](https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/) | [🌐 Sitio WEB](https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/)
 
@@ -46,11 +48,11 @@ Tengo hecho el flujo de trabajo, pero me gustaría mejorar el Sitio WEB.
 
 ### Estudio de sequía en Canarias (estaciones NOAA) ☀️ ☁️ ☔
 
-**Descripción**: Este proyecto se basa en un tutorial de Youtube llamado [Riffomonas Project](https://www.youtube.com/@Riffomonas/featured) y cuyo autor es [Pathick Schloss](https://medschool.umich.edu/profile/2341/patrick-d-schloss) profesor de la University of Michigan Medical School. 
+**Descripción**: Este proyecto se inspira en un tutorial de YouTube llamado [Riffomonas Project](https://www.youtube.com/@Riffomonas/featured) , creado por [Pathick Schloss](https://medschool.umich.edu/profile/2341/patrick-d-schloss), profesor en la University of Michigan Medical School. 
 
-Este proyecto fue mi <u>primer proyecto de desarrollo WEB</u>.
+Este fue mi <u>primer proyecto de desarrollo web</u>.
 
-<u><strong>El objetivo final es crear un GIF con la evolución de la sequía del año 2024 en comparación con los últimos 30 años de las estaciones NOAA</strong></u>. 
+<u>El objetivo final es crear un GIF que muestre la evolución de la sequía del año 2024 en comparación con los últimos 30 años de datos de las estaciones NOAA</u>.
 
 <p align="center">
 <img src="https://github.com/JuanCarlosBio/tiempo_canarias_noaa/blob/main/figures/precipitaciones_canarias.png?raw=true" width="700px">
@@ -64,11 +66,11 @@ Este proyecto fue mi <u>primer proyecto de desarrollo WEB</u>.
   <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/Ifihan-article-cover.png" width="200px">
 </div>
 
-**Descripción**: En mi último año de carrera, mi trabajo de Fin de grado en Biología consistió en el análisis de una base de datos proporcionada por el Centro de Recuperación de Fauna Silvestre La Tahonilla, usando el <u>Lenguaje de Programación R</u>. La idea de este proyecto es realizar análisis estadístico basado en mi TFG pero usando el <u>[Lenguaje de Programación Julia](https://julialang.org/)</u>.
+**Descripción**: En mi último año de carrera, realicé mi Trabajo de Fin de Grado en Biología, que consistió en el análisis de una base de datos proporcionada por el Centro de Recuperación de Fauna Silvestre La Tahonilla, utilizando el <u>lenguaje de programación R</u>. Este proyecto tiene como objetivo replicar y expandir ese análisis estadístico, pero empleando el [Lenguaje de Programación Julia](https://julialang.org/).
 
-Además me introduje al uso de FramWorks para desarrollo WEB mediante el paquete [Franklin.jl](https://franklinjl.org/).
+Además, me introduje en el uso de frameworks para desarrollo WEB mediante el paquete [Franklin.jl](https://franklinjl.org/).
 
-<u>En estos momentos es un proyecto inacabado</u>.
+<u>Actualmente, este proyecto se encuentra en desarrollo</u>.
 
 [Repositorio de GitHub para el análisis con Julia de Tortugas marinas](https://github.com/JuanCarlosBio/turtles_julia_analysis) | [🌐 Sitio WEB](https://juancarlosbio.github.io/turtles_julia_analysis/)
 
@@ -84,8 +86,9 @@ Proyectos 2023
   <img src="https://snakemake.readthedocs.io/en/stable/_static/logo-snake.svg" width="150px">
 </div>
 
-**Descripción**: Consistió en realizar un flujo de trabajo para análisis <u>Bioinformático de Next Generation Sequencing</u> mediante un software llamado [SNAKEMAKE](https://snakemake.github.io/), se trata de un controlador de flujo de trabajo basado en GNUmake, muy útil para automatizar y hacer reproducibles los flujos de trabajo. Su principal ventaja entre otras es su sintaxis de Python, lo que hace sencillo de aprender y leer.  
-* **Repositorio**: [Flujo de trabajo de Snakemake para análsis de secuenciación genómica](https://github.com/JuanCarlosBio/TFM) 
+**Descripción**: Este proyecto consistió en desarrollar un flujo de trabajo para el análisis <u>bioinformático de Next Generation Sequencing</u> utilizando el software [SNAKEMAKE](https://snakemake.github.io/), un gestor de flujos de trabajo basado en GNUmake. Snakemake es ideal para automatizar y hacer reproducibles los procesos bioinformáticos, destacando por su sintaxis en Python, lo que facilita su aprendizaje y comprensión.  
+
+* **Repositorio de GitHub**: [Desarrollo de un pipeline automatizado y reproducible para análisis WES mediante el uso de SNAKEMAKE](https://github.com/JuanCarlosBio/TFM) 
 
 ## <u>Otras asignaturas del máster (2023)</u> 🧬 👨‍💻 📈
 
@@ -96,8 +99,7 @@ Proyectos 2023
 " width="170px">
 </div>
 
-
-**Descripción**: Código empleado para resolver problemas de la asignatura Secuenciación Genómica
+**Descripción**: Código empleado para resolver los problemas de la asignatura Secuenciación Genómica.
 
 * [Repositorio de las actividades de Secuenciación Genómica](https://github.com/JuanCarlosBio/Secuenciacion_Genomica_VIU)
 
@@ -107,7 +109,7 @@ Proyectos 2023
   <img src="https://microbenotes.com/wp-content/uploads/2022/07/RNA-Sequencing.jpg" width="170px">
 </div>
 
-**Descripción**: Código empleado para resolver problemas de la asignatura Trascriptómica (RNA-SEQ)
+**Descripción**: Código empleado para resolver los problemas de la asignatura Trascriptómica (RNA-SEQ).
 
 * [Repositorio de las actividades de Transcriptómica](https://github.com/JuanCarlosBio/RNA-Seq_VIU)
 
@@ -117,7 +119,7 @@ Proyectos 2023
   <img src="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-101-1-1024x615.png" width="170px">
 </div>
 
-**Descripción**: Código empleado para resolver problemas de la asignatura Datos Ómicos para Poblaciones, en concreto las ómicas que estudiamos fueron la Metagenómica y Metataxonómica. 
+**Descripción**: Código empleado para resolver los problemas de la asignatura Datos Ómicos para Poblaciones, en concreto las ómicas que estudiamos fueron la Metagenómica y Metataxonómica. 
 
 * [Repositorio de las actividades de Datos Ómicos para Poblaciones](https://github.com/JuanCarlosBio/Analisis_Datos_Omicos_Poblaciones)
 
@@ -134,7 +136,7 @@ Proyectos 2022
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQEz33xZKsngrw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1685213382501?e=1732752000&v=beta&t=oM6a_TEeZpZq4-IHTMnL3N0zZ2uCXgwsLqWHrVRtjjY" width="150px">
 </div>
 
-**Descripción**: Código empleado para resolver problemas de la asignatura Programación en los Lenguaje de Programación [Python](https://www.python.org/) y [R](https://www.r-project.org/).
+**Descripción**: Código empleado para resolver los problemas de la asignatura Programación en los Lenguaje de Programación [Python](https://www.python.org/) y [R](https://www.r-project.org/).
 
 * [Repositorio de las actividades de Programación en Python y R](https://github.com/JuanCarlosBio/Programacion_Python_R)
 
@@ -144,9 +146,9 @@ Proyectos 2022
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*f7uGDZbiOloyZSM8C5bNMQ.png" width="150px">
 </div>
 
-**Descripción**: Código empleado para resolver problemas de la asignatura Programación en Shell Scripting, en concreto aprendimos a usar el interprete <u>BASH SHELL</u>.
+**Descripción**: Código empleado para resolver los problemas de la asignatura Programación en Shell Scripting, en concreto aprendimos a usar el interprete <u>BASH SHELL</u>.
 
-Cabe destacar que me especialicé además en el Sistema Operativo Linux, lo que me ha ayudado a mejorar en proyectos de análisis de datos.
+Cabe destacar que me especialicé además en el *Sistema Operativo <u>Linux</u>*, lo que me ha ayudado a mejorar en proyectos de análisis de datos.
 
 * [Repositorio de las actividades de Programación en Shell Scripting](https://github.com/JuanCarlosBio/)
 
@@ -157,16 +159,17 @@ Cabe destacar que me especialicé además en el Sistema Operativo Linux, lo que 
     <figcaption><p style="font-size: 12px;">Visita a las instalaciones de tortugas de La Tahonilla.</p></figcaption>
 </div>
 
-**Descripción**: Después de aprender de forma autodidacta programación en R, puse a prueba mis habilidades en analizar una base de datos de tortugas marinas varadas registradas por el Centro de Recuperación de Fauna Silvestre La Tahonilla perteneciente al Cabildo de Tenerife. 
+**Descripción**: Tras aprender programación en R de forma autodidacta, puse a prueba mis habilidades analizando una base de datos de tortugas marinas varadas, proporcionada por el Centro de Recuperación de Fauna Silvestre La Tahonilla del Cabildo de Tenerife.
 
-Demostré mis competencias en cuanto a programación, análisis estadístico, visualización de datos y más.
+Este proyecto me permitió demostrar competencias en programación, análisis estadístico, visualización de datos y más.
 
-Otra cosa que aprendí por mi cuenta fue el control de <u>versiones de Git y Github</u> para almacenar mi código y compartirlo con mi tutor y el tribunal.
+Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el control de versiones, almacenando mi código y compartiéndolo con mi tutor y el tribunal.
+
 <p align="center">
 <img src="../images/tahonilla.jpg" width="400px">
 </p>
 
-* [Análsis estadístico de tortugas marinas varadas en Tenerife, Islas Canarias](https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla) 
+* **Repositorio de GitHub**: [Análsis estadístico de tortugas marinas varadas en Tenerife, Islas Canarias](https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla) 
 
 --- 
 
@@ -175,7 +178,7 @@ Proyectos de 2021
 
 ### Asignaturas de Cuarto de Carrera🥼 🔬 🧫 🧪 🐁 🥾 🐜 🌺 🌱 🍄
 
-Aprendí programación de forma autodidacta para analizar mis datos de las últimas asignaturas de Cuarto de Carrera. <u>El lenguaje de programación con el que empecé fue R</u> y tengo el código que usé para los análsis. Lo he usado también para probar cosas que he ido aprendiendo, con lo que a veces lo modifico para jugar con el.
+Aprendí programación de forma autodidacta para analizar los datos de mis últimas asignaturas de cuarto de carrera. <u>Comencé con el lenguaje de programación R</u>, y conservo el código utilizado para los análisis. Además, lo he empleado para experimentar y aplicar nuevos conocimientos, realizando modificaciones y explorando diferentes enfoques.
 
 * <u>Asignaturas optativas para la especialidad:</u> 
   * 🐁 Fisiología Animal Aplicada
@@ -184,4 +187,4 @@ Aprendí programación de forma autodidacta para analizar mis datos de las últi
   * 🧪 Avances en Bioquímica y Biología Molecular 
   * 🧬 Genética Evolutiva.
 
-* [Análisis de datos de las asignaturas de Cuarto de Carrera de Biología](https://github.com/JuanCarlosBio/cuarto_carrera)
+* **Repositorio de GitHub**: [Análisis de datos de las asignaturas de Cuarto de Carrera de Biología](https://github.com/JuanCarlosBio/cuarto_carrera)
