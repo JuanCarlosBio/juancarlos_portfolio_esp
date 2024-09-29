@@ -47,7 +47,6 @@ Una de las habilidades clave en la formación científica es el pensamiento crí
  width="150px">
 </div>
 
-
 Durante mi último año de carrera, me di cuenta de la importancia de diferenciarme en un campo tan competitivo. Aunque la biología incluye materias como computación y estadística, el enfoque suele estar en técnicas de laboratorio y campo, lo que nos deja en desventaja frente a otras disciplinas más técnicas.
 
 <div style="float: left; margin-right: 20px;">
@@ -61,7 +60,7 @@ Por ello, decidí profundizar de manera autodidacta en programación y análisis
 
 ### <u>Conocimientos transversales</u>
 
-Obviamente una carrera en ciencias te da habilidades de comunicación, búsqueda de información compleja e interpretación de información compleja, ofimática que me hace un ferfil confiable en ámbitos como: finanzas, comercio/marketing de productos, IT... 
+Mi formación en ciencias me ha dotado de sólidas habilidades en comunicación, búsqueda e interpretación de información compleja, así como en el manejo de herramientas ofimáticas. Estas competencias me permiten ser un profesional confiable y versátil en diversos sectores como finanzas, comercio y marketing de productos, así como en el ámbito de IT.
 
 # 👨‍💻 Mis habilidades como especialista en Bioinformática
 
