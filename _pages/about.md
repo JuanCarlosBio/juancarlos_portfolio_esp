@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "🙋‍♂️ Sobre mí"
+title: "🙋‍♂️ ¡Sobre mí!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## **👋 !Hola y bienvenido a esta web!**
+## **👋 ¡Hola y bienvenido a esta web!**
 
 Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi Portfolio</u>:
 
 <div style="float: right; margin-left: 20px;">
-  <img src="../images/profile2.png" width="200px">
+  <img src="images/profile2.png" width="200px">
   <figcaption><p style="font-size: 12px;">Aventuras por el Barranco de Azuaje.</p></figcaption>
 </div>
 
