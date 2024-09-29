@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# 👨‍🔬 Mis habilidades específicas durante la carrera de Biología de Biología
+# 👨‍🔬 Mis habilidades específicas durante la carrera de Biología
 ---
 
 ### 🥼 <u>Técnicas de laboratorio aplicadas a biología</u>
