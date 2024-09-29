@@ -37,7 +37,7 @@ Muchas veces es necesario ir al lugar de actuación para comprobar las actuacion
 
 <u><strong>Análisis de datos biológicos y geoespaciales:</strong></u>
 
-Uso de Herramientas de Sistemas de información Geográfica (SIG), así Infraestructuras de Datos Espaciales web.
+Uso de <u>Herramientas de Sistemas de Información Geográfica</u> (SIG), así como el uso de herramientas web de <u>Infraestructuras de Datos Espaciales</u>.
 
 En concreto los softwares que he usado como para estudiar datos espaciales:
 
