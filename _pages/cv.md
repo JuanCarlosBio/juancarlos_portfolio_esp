@@ -23,7 +23,7 @@ redirect_from:
 
 * Grado en Biología, Univeridad de La Laguna (ULL), 2022
 
-👨‍🔬 Experiencia profesional
+💼 Experiencia profesional
 ======
 
 <div style="float: right; margin-left: 20px;">
@@ -55,7 +55,7 @@ Como gran aficionado de la informática me he dedicado a hacer proyectos inform�
 
 Proyectos de interés de la página ["Proyectos"](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
 
-Habilidades
+🛠️ Habilidades
 ======
 
 * 🏃 **Proactivo y con iniciativa** 
