@@ -20,11 +20,11 @@ Durante mi formación en biología, adquirí experiencia en técnicas de bioquí
 
 Estas habilidades me capacitan para desempeñarme en los sectores sanitario, farmacéutico, industrial y de investigación.
 
-### 🥾 <u>Técnicas experimentales en Biología</u>
+### 🥾 <u>Técnicas para la gestión y planeamiento del medio ambiente</u>
 
 <div style="float: left; margin-right: 20px;">
-  <img src="https://cobcm.net/wp-content/uploads/2019/02/environmental-protection-683437_1280-742x412.jpg"
- width="220px">
+  <img src="https://img.freepik.com/vector-gratis/salva-concepto-planeta-personas-que-cuidan-tierra_23-2148522570.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1727568000&semt=ais_hybrid"
+ width="200px">
 </div>
 
 Mi formación abarca geología, edafología, zoología, botánica y ecología, lo que me permite interpretar, planificar y diseñar el territorio y el paisaje. 
