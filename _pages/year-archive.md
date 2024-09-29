@@ -39,7 +39,7 @@ Muchas veces es necesario ir al lugar de actuación para comprobar las actuacion
 
 Uso de <u>Herramientas de Sistemas de Información Geográfica</u> (SIG), así como el uso de herramientas web de <u>Infraestructuras de Datos Espaciales</u>.
 
-En concreto los softwares que he usado como para estudiar datos espaciales:
+Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 
 <div style="float: right; margin-right: 100px;">
   <img src="https://www.qgis.org/img/logosign.svg" width="50px">
