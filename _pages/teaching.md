@@ -86,4 +86,4 @@ Aunque la bioinformática se centra en datos biológicos, las metodologías y te
 
 Para conocer cómo he aplicado mis conocimientos en el ámbito laboral, te invito a visitar la página sobre mi experiencia:
 
-* ### ➡️ [!Experiencia Profesional!](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/) 
+* ### ➡️ [¡Mi Experiencia Profesional! 👨‍💼](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/) 
