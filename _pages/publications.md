@@ -40,9 +40,16 @@ He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web pa
 
 ### Cuadrículas 100 x 100 Para búsqueda de especies Python 🌷🐜🔍
 
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/images/exampe_portfolio/Captura%20de%20pantalla%202024-10-03%20165837.png?raw=true" width="200px">
+</div>
+
 **Descripción:** Flujo de Trabajo para crear cuadrículas 100 x 100 (m<sup>2</sup>) en los Espacios Naturales Protegidos, mediante el uso de Python. La idea es tener cuadrículas para cargar en IGN y guiarse mejor en estos espacios y anotar especies.
 
-* **Repositorio:** [Cuadriculas_Especies](https://github.com/JuanCarlosBio/Cuadriculas_Especies)
+Con estas capas luego se pueden análisis espaciales de especies identificadas (u otras observaciones) como la web que he desarrollado para la localización de especies nativas en la caldera de Bandama.
+
+[Repositorio Cuadriculas_Especies](https://github.com/JuanCarlosBio/Cuadriculas_Especies) | [🌐 Sitio WEB](https://juancarlosbio.github.io/Cuadriculas_Especies/)
+ 
 
 ## <u>Otros proyectos personales este año</u> 
 
