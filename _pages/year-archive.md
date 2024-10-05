@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-2024 - <u>ACTUALIDAD Cabildo Insular de Gran Canaria</u>
+Feb 2024 - <u>ACTUALIDAD Cabildo Insular de Gran Canaria</u>
 ===
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-Actualmente trabajo en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> 🌲 gracias a la oportunidad proporcionada por la Beca Nuevas Oportunidades de Empleo (NOE). En concreto mi puesto se trata de <u><strong>Técnico de Medio Ambiente, Graduado en Biología</strong></u>
+Actualmente me han ofrecido un contrato laboral en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> 🌲 gracias a la oportunidad proporcionada por el proyecto Nuevas Oportunidades de Empleo (NOE). En concreto mi puesto se trata de <u><strong>Técnico de Medio Ambiente, Graduado en Biología</strong></u>
 
 ## Labores y habilidades del oficio:
 
 <div style="float: left; margin-right: 20px;">
-  <img src="../images/profile2.png" width="250px">
+  <img src="../images/profile2.png" width="280px">
   <figcaption><p style="font-size: 12px;">Aventuras por el Barranco de Azuaje.</p></figcaption>
 </div>
 
@@ -55,7 +55,7 @@ Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 * Además tengo [proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) de análsis de datos cono <u>Python y R</u>.
 * <u>Software Ofimático</u> (Microsoft Office, propio sistema del cabildo)
 
-feb/2022 - abr/2022 Animalario y estabulario del Servicio de Apoyo a la investigación (SEGAI) ULL
+Feb 2022 - Abr2 022 Animalario y estabulario del Servicio de Apoyo a la investigación (SEGAI) ULL
 ===
 
 Mi primera experiencia como profesional fue como <u><strong>técnico de estabulario - animalario</strong></u> 🐁.
