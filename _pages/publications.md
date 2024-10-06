@@ -75,7 +75,7 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
   <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/Ifihan-article-cover.png" width="200px">
 </div>
 
-**Descripción**: En mi último año de carrera, realicé mi Trabajo de Fin de Grado en Biología, que consistió en el análisis de una base de datos proporcionada por el Centro de Recuperación de Fauna Silvestre La Tahonilla, utilizando el <u>lenguaje de programación R</u>. Este proyecto tiene como objetivo replicar y expandir ese análisis estadístico, pero empleando el [Lenguaje de Programación Julia](https://julialang.org/).
+**Descripción**: En mi último año de carrera, realicé mi Trabajo de Fin de Grado en Biología, que consistió en el análisis de una base de datos de <u>tortugas marinas varadas en Tenerife</u>, proporcionada por el Centro de Recuperación de Fauna Silvestre La Tahonilla, utilizando el <u>lenguaje de programación R</u>. Este proyecto tiene como objetivo replicar y expandir ese análisis estadístico, pero empleando el [lenguaje de programación Julia](https://julialang.org/).
 
 Además, me introduje en el uso de frameworks para desarrollo WEB mediante el paquete [Franklin.jl](https://franklinjl.org/).
 
@@ -165,7 +165,7 @@ Cabe destacar que me especialicé además en el *Sistema Operativo <u>Linux</u>*
 
 <div style="float: right; margin-left: 20px;">
   <img src="../images/tahonilla_tortugas.jpg" width="250px">
-    <figcaption><p style="font-size: 12px;">Visita a las instalaciones de tortugas de La Tahonilla.</p></figcaption>
+    <figcaption style="font-size: 12px;" align="center">Visita para ver las tortugas en La Tahonilla.</figcaption>
 </div>
 
 **Descripción**: Tras aprender programación en R de forma autodidacta, puse a prueba mis habilidades analizando una base de datos de tortugas marinas varadas, proporcionada por el Centro de Recuperación de Fauna Silvestre La Tahonilla del Cabildo de Tenerife.

@@ -12,8 +12,8 @@ redirect_from:
 Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi Portfolio</u>:
 
 <div style="float: right; margin-left: 20px;">
-  <img src="images/foto_perfil3.jpg" width="250px">
-  <figcaption><p style="font-size: 12px;">Aventuras por Tamadaba.</p></figcaption>
+  <img src="images/foto_perfil3.jpg" width="230px">
+  <figcaption style="font-size: 12px;" align="center">Aventuras por Tamadaba.</figcaption>
 </div>
 
 <p>

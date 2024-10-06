@@ -16,28 +16,28 @@ Feb 2024 - <u>ACTUALIDAD Cabildo Insular de Gran Canaria</u>
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-Actualmente me han ofrecido un contrato laboral en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> 🌲 gracias a la oportunidad proporcionada por el proyecto Nuevas Oportunidades de Empleo (NOE). En concreto mi puesto se trata de <u><strong>Técnico de Medio Ambiente, Graduado en Biología</strong></u>
+Actualmente me han ofrecido un contrato laboral de un año en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> 🌲 gracias a la oportunidad proporcionada por el proyecto Nuevas Oportunidades de Empleo (NOE). En concreto, mi puesto se trata de <u><strong>Técnico de Medio Ambiente, Graduado en Biología</strong></u>
 
 ## Labores y habilidades del oficio:
 
 <div style="float: left; margin-right: 20px;">
   <img src="../images/profile2.png" width="280px">
-  <figcaption><p style="font-size: 12px;">Aventuras por el Barranco de Azuaje.</p></figcaption>
+  <figcaption style="font-size: 12px;" align="center">Aventuras por el Barranco de Azuaje.</figcaption>
 </div>
 
 ### 📋 *Redacción de Informes Técnicos*
 
-La principal tarea del puesto se trata de la gestión pública mediante la redacción de informes técnicos para la compatibilidad de actuaciones (obras, actividades, celebraciones...) en base a la normativa vigente de los <u><i>Espacios Naturales Protegidos</i></u>. Con esto se toma decisiones a nivel técnico ambiental sobre la compatibilidad o la incompatibilidad de las actuaciones. 
+La principal tarea del puesto consiste en la gestión pública mediante la redacción de informes técnicos para evaluar la compatibilidad de actuaciones (obras, actividades, celebraciones...) según la normativa vigente de los <u><i>Espacios Naturales Protegidos</i></u>. Con esto, se toman decisiones a nivel técnico-ambiental sobre la compatibilidad o incompatibilidad de dichas actuaciones.
 
 ### 🥾 *Salidas de campo*
 
-Muchas veces es necesario ir al lugar de actuación para comprobar las actuaciones que se quieren realizar y tener una mejor idea de lo que se quiere hacer. He aprendido de esta manera la atención al detalle que se necesita como técnico, así como muchas veces la importancia de la comunicación con otros compañeros de equipo así como los propios solicitantes del encargo.
+Muchas veces es necesario acudir al lugar de la actuación para comprobar las intervenciones que se desean realizar y obtener una mejor idea de lo que se pretende hacer. De esta manera, he aprendido la importancia de la atención al detalle que se requiere como técnico, así como el valor de la comunicación con otros compañeros de equipo y con los propios solicitantes del encargo.
 
 ### 💻 Habilidades que he desarrollado como complemento:
 
-<u><strong>Análisis de datos biológicos y geoespaciales:</strong></u>
+<u><i>Análisis de datos biológicos y geoespaciales:</i></u>
 
-Uso de <u><i>Herramientas de Sistemas de Información Geográfica</i></u> (SIG), así como el uso de herramientas web de <u><i>Infraestructuras de Datos Espaciales</i></u> (IDE).
+* Uso de <u>Herramientas de Sistemas de Información Geográfica</u> (SIG), así como el uso de herramientas web de <u>Infraestructuras de Datos Espaciales</u> (IDE).
 
 Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 
@@ -62,15 +62,15 @@ Mi primera experiencia como profesional fue como <u><strong>técnico de estabula
 
 <div style="float: right; margin-left: 20px;">
   <img src="../images/foto segai.jpg" width="190px">
-  <figcaption><p style="font-size: 12px;">Primera experiencia en el SEGAI.</p></figcaption>
+  <figcaption style="font-size: 12px;" align="center">Primera experiencia en el SEGAI.</figcaption>
 </div>
 
 Entre las labores del oficio destacan:
 
-<u>Mantenimiento y cuidado de los animales</u>, incluyendo la cría de ratas y ratones, cambio de jaulas, y administración de medicación, siempre siguiendo estrictamente los protocolos de bienestar animal.
+<u>Mantenimiento y cuidado de los animales</u>, incluyendo la cría de ratas y ratones, el cambio de jaulas y la administración de medicación, siempre siguiendo estrictamente los protocolos de bienestar animal.
 
-<u>Mantenimiento de las instalaciones y equipos</u>, como la limpieza de jaulas de diversas especies (ratas, conejos y ranas), reparación de equipamientos y redacción de protocolos de uso.
+<u>Mantenimiento de las instalaciones y equipos</u>, incluyendo la limpieza de jaulas de diversas especies (ratas, conejos y ranas), la reparación de equipamientos y la redacción de protocolos de uso de los equipos.
 
-<u>Labores de laboratorio</u>, centradas en la producción farmacológica de medicación para animales y observación microscópica de tejidos de rata y ratón para realzar diagnósticos.
+<u>Labores de laboratorio</u>, centradas en la producción de medicamentos para animales y la observación microscópica de tejidos de rata y ratón para realizar diagnósticos.
 
-<u>Tareas veterinarias</u>, como la manipulación de animales, administración de medicación y realización de procedimientos quirúrgicos.
+<u>Tareas veterinarias</u>, como la manipulación de animales, la administración de medicación y la realización de procedimientos quirúrgicos.
