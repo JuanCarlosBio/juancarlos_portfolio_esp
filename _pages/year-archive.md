@@ -52,7 +52,7 @@ Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 
 * [QGIS](https://github.com/qgis/QGIS) un SIG Open Source.
 * Visores de [IDECanarias](https://www.idecanarias.es/) e [IDEGranCanaria](https://www.idegrancanaria.es/) 
-* Además tengo [proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) de análsis de datos cono <u>Python y R</u>.
+* Además tengo [proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) de análsis de datos usando <u>Python y R</u>.
 * <u>Software Ofimático</u> (Microsoft Office, propio sistema del cabildo)
 
 Feb 2022 - Abr2 022 Animalario y estabulario del Servicio de Apoyo a la investigación (SEGAI) ULL

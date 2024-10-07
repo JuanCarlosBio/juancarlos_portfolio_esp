@@ -159,7 +159,7 @@ Proyectos 2022
 
 Cabe destacar que me especialicé además en el *Sistema Operativo <u>Linux</u>*, lo que me ha ayudado a mejorar en proyectos de análisis de datos.
 
-* [Repositorio de las actividades de Programación en Shell Scripting](https://github.com/JuanCarlosBio/)
+* [Repositorio de las actividades de Programación en Shell Scripting](https://github.com/JuanCarlosBio/Programacion_Shell_Scripting_VIU)
 
 ## <u>Trabajo de Fin de Grado en Biología</u> 
 
