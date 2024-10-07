@@ -22,9 +22,9 @@ Proyectos 2024
   <img src="../images/GC_mapa.png" width="250px">
 </div>
 
-### Web de Especies de la isla de Gran Canaria observadas 🐜 🌱
+### Web de Especies de la isla de Gran Canaria observadas 🐜🌱 
 
-<strong>Descripción</strong>: Esta web fue creada para la observación de especies localizadas <i>in situ</i> mediante la toma de muestras georreferenciadas a través de fotografías con el móvil 📱📷🌍. La plataforma consta de varias páginas donde se pueden observar las especies en visores, tablas interactivas y estadísticas.
+<strong>Descripción</strong>: Esta web fue creada para la observación de especies localizadas <i>in situ</i> mediante la toma de muestras georreferenciadas a través de fotografías con el móvil . La plataforma consta de varias páginas donde se pueden observar las especies en visores, tablas interactivas y estadísticas.
 
 Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y plantas</u>, aunque no descarto incluir otros organismos en el futuro.
 
@@ -185,7 +185,7 @@ Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el co
 Proyectos de 2021
 ===
 
-### Asignaturas de Cuarto de Carrera🥼 🔬 🧫 🧪 🐁 🥾 🐜 🌺 🌱 🍄
+### Asignaturas de Cuarto de Carrera del Grado en Biología ULL
 
 Aprendí programación de forma autodidacta para analizar los datos de mis últimas asignaturas de cuarto de carrera. <u>Comencé con el lenguaje de programación R</u>, y conservo el código utilizado para los análisis. Además, lo he empleado para experimentar y aplicar nuevos conocimientos, realizando modificaciones y explorando diferentes enfoques.
 

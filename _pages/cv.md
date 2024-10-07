@@ -60,16 +60,16 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
 🛠️ Habilidades
 ======
 
-* 🏃 **Proactivo y con iniciativa** 
-* 🎓 **Ganas de aprender** 
-* 💍 **Comprometido** 
-* 🔈 **Comunicación** 
-* 👫 **Trabajo en equipo** 
-* 🔧 **Resolución de problemas**
-* 🔓 **Adaptabilidad**
-* 💡 **Creatividad** 
-* 📈 **Análisis de datos**
-* 👨‍💻 **Informática**
+* **Proactivo y con iniciativa** 
+* **Ganas de aprender** 
+* **Comprometido** 
+* **Comunicación** 
+* **Trabajo en equipo** 
+* **Resolución de problemas**
+* **Adaptabilidad**
+* **Creatividad** 
+* **Análisis de datos**
+* **Informática**
 
 Si quieres ahondar más sobre mis habilidades <u>específicas</u>, te recomeinto ver la página "[***Habilidades***](https://juancarlosbio.github.io/juancarlos_portfolio_esp//habilidades/)"
 
