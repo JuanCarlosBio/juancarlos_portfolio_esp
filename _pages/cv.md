@@ -12,13 +12,13 @@ redirect_from:
 🎓 Educación
 ======
 <div style="float: right; margin-left: 20px;">
-  <img src="https://www.universidadviu.com/sites/universidadviu.com/themes/custom/universidadviu_com/logo.webp" width="70px">
+  <img src="https://www.universidadviu.com/sites/universidadviu.com/themes/custom/universidadviu_com/logo.webp" width="100px">
 </div>
 
 * Máster Oficial en Bioinformática, Universidad Internacional de Valencia (VIU), 2023
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo-300x177.jpg" width="70px">
+  <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo-300x177.jpg" width="100px">
 </div>
 
 * Grado en Biología, Univeridad de La Laguna (ULL), 2022
@@ -60,24 +60,24 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
 🛠️ Habilidades
 ======
 
-* **Proactivo y con iniciativa** 
-* **Ganas de aprender** 
-* **Comprometido** 
-* **Comunicación** 
-* **Trabajo en equipo** 
-* **Resolución de problemas**
-* **Adaptabilidad**
-* **Creatividad** 
-* **Análisis de datos**
-* **Informática**
+* Proactivo y con iniciativa 
+* Ganas de aprender 
+* Comprometido 
+* Comunicación 
+* Trabajo en equipo 
+* Resolución de problemas
+* Adaptabilidad
+* Creatividad 
+* Análisis de datos
+* Informática
 
 Si quieres ahondar más sobre mis habilidades <u>específicas</u>, te recomeinto ver la página "[***Habilidades***](https://juancarlosbio.github.io/juancarlos_portfolio_esp//habilidades/)"
 
 Otra información
 ===
 
-* 🚗 **Permiso de conducir B**
-* ✈ **Disponibilidad para viajar️**
+* 🚗 Permiso de conducir B
+* ✈ Disponibilidad para viajar️
 
 Idiomas
 ===

@@ -175,7 +175,9 @@ Este proyecto me permitió demostrar competencias en programación, análisis es
 Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el control de versiones, almacenando mi código y compartiéndolo con mi tutor y el tribunal.
 
 <p align="center">
-<img src="../images/tahonilla.jpg" width="400px">
+<img src="../images/tahonilla.jpg" width="270px">
+    <figcaption style="font-size: 12px;" align="center">Centro de Recuperación de Fauna Silvestre La Tahonilla.
+    </figcaption>
 </p>
 
 * **Repositorio de GitHub**: [Análsis estadístico de tortugas marinas varadas en Tenerife, Islas Canarias](https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla) 

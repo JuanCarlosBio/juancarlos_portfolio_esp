@@ -16,7 +16,7 @@ Feb 2024 - <u>ACTUALIDAD Cabildo Insular de Gran Canaria</u>
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-Actualmente me han ofrecido un contrato laboral de un año en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> 🌲 gracias a la oportunidad proporcionada por el proyecto Nuevas Oportunidades de Empleo (NOE). En concreto, mi puesto se trata de <u><strong>Técnico de Medio Ambiente, Graduado en Biología</strong></u>
+Actualmente me han ofrecido un contrato laboral de un año en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> gracias a la oportunidad proporcionada por el proyecto Nuevas Oportunidades de Empleo (NOE). En concreto, mi puesto se trata de <u><strong>Técnico de Medio Ambiente, Graduado en Biología</strong></u>
 
 ## Labores y habilidades del oficio:
 
@@ -37,7 +37,7 @@ Muchas veces es necesario acudir al lugar de la actuación para comprobar las in
 
 <u><i>Análisis de datos biológicos y geoespaciales:</i></u>
 
-* Uso de <u>Herramientas de Sistemas de Información Geográfica</u> (SIG), así como el uso de herramientas web de <u>Infraestructuras de Datos Espaciales</u> (IDE).
+* Uso de Herramientas de Sistemas de Información Geográfica (SIG), así como el uso de herramientas web de Infraestructuras de Datos Espaciales (IDE).
 
 Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 
@@ -52,8 +52,8 @@ Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 
 * [QGIS](https://github.com/qgis/QGIS) un SIG Open Source.
 * Visores de [IDECanarias](https://www.idecanarias.es/) e [IDEGranCanaria](https://www.idegrancanaria.es/) 
-* Además tengo [proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) de análsis de datos usando <u>Python y R</u>.
-* <u>Software Ofimático</u> (Microsoft Office, propio sistema del cabildo)
+* Además tengo [proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) de análsis de datos usando Python y R.
+* Software Ofimático (Microsoft Office, propio sistema del cabildo)
 
 Feb 2022 - Abr2 022 Animalario y estabulario del Servicio de Apoyo a la investigación (SEGAI) ULL
 ===
@@ -65,12 +65,12 @@ Mi primera experiencia como profesional fue como <u><strong>técnico de estabula
   <figcaption style="font-size: 12px;" align="center">Primera experiencia en el SEGAI.</figcaption>
 </div>
 
-Entre las labores del oficio destacan:
+## <strong>Labores y habilidades del oficio</strong>:
 
-<u>Mantenimiento y cuidado de los animales</u>, incluyendo la cría de ratas y ratones, el cambio de jaulas y la administración de medicación, siempre siguiendo estrictamente los protocolos de bienestar animal.
+**Mantenimiento y cuidado de los animales**, incluyendo la cría de ratas y ratones, el cambio de jaulas y la administración de medicación, siempre siguiendo estrictamente los protocolos de bienestar animal.
 
-<u>Mantenimiento de las instalaciones y equipos</u>, incluyendo la limpieza de jaulas de diversas especies (ratas, conejos y ranas), la reparación de equipamientos y la redacción de protocolos de uso de los equipos.
+**Mantenimiento de las instalaciones y equipos**, incluyendo la limpieza de jaulas de diversas especies (ratas, conejos y ranas), la reparación de equipamientos y la redacción de protocolos de uso de los equipos.
 
-<u>Labores de laboratorio</u>, centradas en la producción de medicamentos para animales y la observación microscópica de tejidos de rata y ratón para realizar diagnósticos.
+**Labores de laboratorio**, centradas en la producción de medicamentos para animales y la observación microscópica de tejidos de rata y ratón para realizar diagnósticos.
 
-<u>Tareas veterinarias</u>, como la manipulación de animales, la administración de medicación y la realización de procedimientos quirúrgicos.
+**Tareas veterinarias**, como la manipulación de animales, la administración de medicación y la realización de procedimientos quirúrgicos.
