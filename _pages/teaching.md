@@ -77,7 +77,7 @@ Me adentré en el análisis de Big Data, trabajando con secuencias de ADN y prot
 
 Aunque la bioinformática se centra en datos biológicos, las metodologías y tecnologías que he adquirido (como Git, Conda, Snakemake) son aplicables a otros proyectos de Ciencia de Datos. Puedes explorar algunos de los proyectos en los que he trabajado en la página:
 
-* ### ➡️[Proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
+### ➡️ [Mis Proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
 
 
 # 💼 Mis Habilidades como profesional
@@ -86,4 +86,4 @@ Aunque la bioinformática se centra en datos biológicos, las metodologías y te
 
 Para conocer cómo he aplicado mis conocimientos en el ámbito laboral, te invito a visitar la página sobre mi experiencia:
 
-* ### ➡️ [¡Mi Experiencia Profesional! 👨‍💼](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/) 
+### ➡️ [Mi Experiencia Profesional](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/) 

@@ -27,7 +27,7 @@ redirect_from:
 ======
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="70px">
+  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
 * **2024 - ACTUALIDAD**: Servicio Técnico de Medio Ambiente
@@ -35,10 +35,10 @@ redirect_from:
   * Puesto desempeñado: 🌲 Técnico de Medio Ambiente / Graduado en Biólogo
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="100px">
+  <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px">
 </div>
 
-* **2022, Duración 3 meses**: Servicio de Apoyo a la Investigación (SEGAI)
+* **2022, Duración 3 meses**: Servicio General de Apoyo a la Investigación (SEGAI)
   * Institución: Universidad de La Laguna
   * Puesto desempeñado: 🐁 Técnico de estabulario - animalario
 

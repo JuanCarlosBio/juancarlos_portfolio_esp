@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /experiencia/
-title: "👨‍💼💼 Experiencia Profesional"
+title: "💼 Experiencia Profesional"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/

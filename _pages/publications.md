@@ -11,10 +11,12 @@ Debido a mi gran interés por la informática, he desarrollado proyectos persona
 
 Comparto mis proyectos, tanto los más destacados como aquellos en los que aún estoy aprendiendo, en mi repositorio de GitHub, lo que me permite documentar y reflejar mi evolución técnica y aprendizaje continuo.
 
---- 
+ 
 
 Proyectos 2024
 ===
+
+---
 
 ## <u>Estancia en el Cabildo de Gran Canaria (Medio Ambiente)</u> 🥾 
 
@@ -30,6 +32,8 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 [Repositorio de GitHub BiodiversidadGJC](https://github.com/JuanCarlosBio/BiodiversidadGJC) | [🌐 Sitio WEB](https://juancarlosbio.github.io/BiodiversidadGJC/)
 
+---
+
 ### Web de senderos obtenidos por la aplicación IGN 🗺️
 
 **Descripción**: En esta web comparto senderos obtenidos en formato KML a partir de archivos GPX generados con la aplicación del IGN.
@@ -37,6 +41,8 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web para optimizar la experiencia del usuario.
 
 [Repositorio Salidas_de_Campo_CabildoGC](https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/) | [🌐 Sitio WEB](https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/)
+
+---
 
 ### Cuadrículas 100 x 100 Para búsqueda de especies Python 🌷🐜🔍
 
@@ -50,6 +56,7 @@ Con estas capas luego se pueden análisis espaciales de especies identificadas (
 
 [Repositorio Cuadriculas_Especies](https://github.com/JuanCarlosBio/Cuadriculas_Especies) | [🌐 Sitio WEB](https://juancarlosbio.github.io/Cuadriculas_Especies/)
  
+---
 
 ## <u>Otros proyectos personales este año</u> 
 
@@ -69,6 +76,8 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 
 [Repositorio de GitHub tiempo_canarias_noaa](https://github.com/JuanCarlosBio/tiempo_canarias_noaa/) | [🌐 sitio WEB](https://juancarlosbio.github.io/tiempo_canarias_noaa/)
 
+---
+
 ### Análisis de Base de Datos de Tortugas Marinas usando Julia. 
 
 <div style="float: right; margin-left: 20px;">
@@ -82,7 +91,6 @@ Además, me introduje en el uso de frameworks para desarrollo WEB mediante el pa
 <u>Actualmente, este proyecto se encuentra en desarrollo</u>.
 
 [Repositorio de GitHub para el análisis con Julia de Tortugas marinas](https://github.com/JuanCarlosBio/turtles_julia_analysis) | [🌐 Sitio WEB](https://juancarlosbio.github.io/turtles_julia_analysis/)
-
 
 --- 
 
@@ -99,6 +107,8 @@ Proyectos 2023
 
 * **Repositorio de GitHub**: [Desarrollo de un pipeline automatizado y reproducible para análisis WES mediante el uso de SNAKEMAKE](https://github.com/JuanCarlosBio/TFM) 
 
+---
+
 ## <u>Otras asignaturas del máster (2023)</u> 🧬 👨‍💻 📈
 
 ### Actividades de Secuenciación Genómica (VIU)
@@ -112,6 +122,8 @@ Proyectos 2023
 
 * [Repositorio de las actividades de Secuenciación Genómica](https://github.com/JuanCarlosBio/Secuenciacion_Genomica_VIU)
 
+---
+
 ### Actividades de Trasncriptómica (VIU)
 
 <div style="float: right; margin-left: 20px;">
@@ -121,6 +133,8 @@ Proyectos 2023
 **Descripción**: Código empleado para resolver los problemas de la asignatura Trascriptómica (RNA-SEQ).
 
 * [Repositorio de las actividades de Transcriptómica](https://github.com/JuanCarlosBio/RNA-Seq_VIU)
+
+---
 
 ### Actividades de Datos Ómicos para Poblaciones (VIU)
 
@@ -149,6 +163,8 @@ Proyectos 2022
 
 * [Repositorio de las actividades de Programación en Python y R](https://github.com/JuanCarlosBio/Programacion_Python_R)
 
+---
+
 ### Actividades de Programación en Shell Scripting / BASH (VIU)
 
 <div style="float: right; margin-left: 20px;">
@@ -160,6 +176,8 @@ Proyectos 2022
 Cabe destacar que me especialicé además en el *Sistema Operativo <u>Linux</u>*, lo que me ha ayudado a mejorar en proyectos de análisis de datos.
 
 * [Repositorio de las actividades de Programación en Shell Scripting](https://github.com/JuanCarlosBio/Programacion_Shell_Scripting_VIU)
+
+---
 
 ## <u>Trabajo de Fin de Grado en Biología</u> 
 
@@ -199,3 +217,5 @@ Aprendí programación de forma autodidacta para analizar los datos de mis últi
   * 🧬 Genética Evolutiva.
 
 * **Repositorio de GitHub**: [Análisis de datos de las asignaturas de Cuarto de Carrera de Biología](https://github.com/JuanCarlosBio/cuarto_carrera)
+
+---
