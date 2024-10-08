@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 🎓 Educación
 ======
 <div style="float: right; margin-left: 20px;">
@@ -22,6 +24,8 @@ redirect_from:
 </div>
 
 * Grado en Biología, Univeridad de La Laguna (ULL), 2022
+
+---
 
 💼 Experiencia profesional
 ======
@@ -57,6 +61,8 @@ Como gran aficionado de la informática me he dedicado a hacer proyectos inform�
 
 Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
 
+---
+
 🛠️ Habilidades
 ======
 
@@ -73,11 +79,15 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
 
 Si quieres ahondar más sobre mis habilidades <u>específicas</u>, te recomeinto ver la página "[***Habilidades***](https://juancarlosbio.github.io/juancarlos_portfolio_esp//habilidades/)"
 
+---
+
 Otra información
 ===
 
 * 🚗 Permiso de conducir B
 * ✈ Disponibilidad para viajar️
+
+---
 
 Idiomas
 ===
@@ -85,6 +95,8 @@ Idiomas
 * 🇪🇸 Español: nativo
 * 🇬🇧 Inglés: avanzado
   
+---
+
 Otras aficiones
 ======
 Para que me conozcas mejor, otros intereses que tengo como hobbies:
