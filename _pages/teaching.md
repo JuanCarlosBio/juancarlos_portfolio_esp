@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # 👨‍🔬 Mis habilidades específicas durante la carrera de Biología
+
 ---
 
 ### 🥼 <u>Técnicas de laboratorio aplicadas a biología</u>
@@ -20,6 +21,8 @@ Durante mi formación en biología, adquirí experiencia en técnicas de bioquí
 
 Estas habilidades me capacitan para desempeñarme en los sectores sanitario, farmacéutico, industrial y de investigación.
 
+---
+
 ### 🥾 <u>Técnicas para la gestión y planeamiento del medio ambiente</u>
 
 <div style="float: left; margin-right: 20px;">
@@ -31,6 +34,8 @@ Mi formación abarca geología, edafología, zoología, botánica y ecología, l
 
 Esto me ha capacitado para realizar evaluaciones de impacto ambiental, diagnosticar problemas medioambientales y proponer soluciones eficaces, ayudando a mitigar riesgos en un entorno en constante cambio.
 
+---
+
 ### 💡 <u>Visión científica: pensamiento crítico</u> 
 
 <div style="float: right; margin-left: 20px;">
@@ -39,6 +44,8 @@ Esto me ha capacitado para realizar evaluaciones de impacto ambiental, diagnosti
 </div>
 
 Una de las habilidades clave en la formación científica es el pensamiento crítico, desarrollado a través del uso riguroso del método científico. Esta capacidad facilita la identificación y resolución de problemas, siendo una herramienta valiosa para perfiles técnicos en cualquier sector.
+
+---
 
 ### <u>Aprendizaje autónomo de 👨‍💻 Informática y 📈 Análsis de Datos</u> 
 
@@ -57,6 +64,7 @@ Durante mi último año de carrera, me di cuenta de la importancia de diferencia
 
 Por ello, decidí profundizar de manera autodidacta en programación y análisis de datos, habilidades esenciales en el siglo XXI. Este aprendizaje ha ampliado mi perspectiva y me ha brindado nuevas oportunidades profesionales.
 
+---
 
 ### <u>Conocimientos transversales</u>
 
@@ -79,10 +87,9 @@ Aunque la bioinformática se centra en datos biológicos, las metodologías y te
 
 ### ➡️ [Mis Proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
 
+---
 
 # 💼 Mis Habilidades como profesional
-
----
 
 Para conocer cómo he aplicado mis conocimientos en el ámbito laboral, te invito a visitar la página sobre mi experiencia:
 

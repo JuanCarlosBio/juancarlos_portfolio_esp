@@ -55,7 +55,7 @@ Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 * Además tengo [proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) de análsis de datos usando Python y R.
 * Software Ofimático (Microsoft Office, propio sistema del cabildo)
 
-Feb 2022 - Abr2 022 Animalario y estabulario del Servicio de Apoyo a la investigación (SEGAI) ULL
+Feb 2022 - Abr2 022 Animalario y estabulario del Servicio General de Apoyo a la investigación (SEGAI) ULL
 ===
 
 Mi primera experiencia como profesional fue como <u><strong>técnico de estabulario - animalario</strong></u> 🐁.
