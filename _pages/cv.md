@@ -84,6 +84,7 @@ Si quieres ahondar más sobre mis habilidades <u>específicas</u>, te recomeinto
 Otra información
 ===
 
+* Beneficiario de <u>Garantía Juvenil</u> y del progeama <u><i>"ICENTÍVATE"</i></u>
 * 🚗 Permiso de conducir B
 * ✈ Disponibilidad para viajar️
 
