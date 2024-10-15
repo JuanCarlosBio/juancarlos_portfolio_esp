@@ -62,7 +62,7 @@ Con estas capas luego se pueden análisis espaciales de especies identificadas (
 
 ### Estudio de sequía en Canarias (estaciones NOAA) ☀️ ☁️ ☔
 
-**Descripción**: Este proyecto se inspira en un tutorial de YouTube llamado [Riffomonas Project](https://www.youtube.com/@Riffomonas/featured) , creado por [Pathick Schloss](https://medschool.umich.edu/profile/2341/patrick-d-schloss), profesor en la University of Michigan Medical School. 
+**Descripción**: Este proyecto se inspira en un tutorial de YouTube llamado [Riffomonas Project](https://www.youtube.com/@Riffomonas/featured) , creado por [Patrick Schloss](https://medschool.umich.edu/profile/2341/patrick-d-schloss), profesor en la University of Michigan Medical School. 
 
 Este fue mi <u>primer proyecto de desarrollo web</u>.
 
