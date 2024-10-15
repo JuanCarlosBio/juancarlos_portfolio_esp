@@ -36,7 +36,7 @@ redirect_from:
 
 * **2024 - ACTUALIDAD**: Servicio Técnico de Medio Ambiente
   * Institución: Cabildo Insular de Gran Canaria
-  * Puesto desempeñado: 🌲 Técnico de Medio Ambiente / Graduado en Biólogo
+  * Puesto desempeñado: 🌲 Técnico de Medio Ambiente / Graduado en Biología
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px">
@@ -50,7 +50,7 @@ Si quieres saber más sobre mi experiencia laboral ve a la página: [***Experien
 
 ### Otra experiencia: 👩‍💻 <u>Programador</u> 
 
-Como gran aficionado de la informática me he dedicado a hacer proyectos informáticos / análisis de datos, que me han ayudado tanto a lo largo de mis estudios como a complementar mi trabajo:
+Como gran aficionado de la informática me he dedicado a hacer proyectos informáticos y de análisis de datos, que me han ayudado tanto a lo largo de mis estudios como a complementar mi trabajo:
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="70px">
