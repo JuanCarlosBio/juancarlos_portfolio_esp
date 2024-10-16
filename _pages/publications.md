@@ -57,7 +57,7 @@ Proyectos 2024
 
 Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y plantas</u>, aunque no descarto incluir otros organismos en el futuro.
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/BiodiversidadGJC'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -72,7 +72,7 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web para optimizar la experiencia del usuario.
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -91,7 +91,7 @@ He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web pa
 
 Con estas capas luego se pueden análisis espaciales de especies identificadas (u otras observaciones) como la web que he desarrollado para la localización de especies nativas en la caldera de Bandama.
  
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Cuadriculas_Especies'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -116,7 +116,7 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 <img src="https://github.com/JuanCarlosBio/tiempo_canarias_noaa/blob/main/figures/precipitaciones_canarias.png?raw=true" width="700px">
 </p>
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/tiempo_canarias_noaa/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -137,7 +137,7 @@ Además, me introduje en el uso de frameworks para desarrollo WEB mediante el pa
 
 <u>Actualmente, este proyecto se encuentra en desarrollo</u>.
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/turtles_julia_analysis'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -159,7 +159,7 @@ Proyectos 2023
 
 * **Repositorio de GitHub**: [Desarrollo de un pipeline automatizado y reproducible para análisis WES mediante el uso de SNAKEMAKE](https://github.com/JuanCarlosBio/TFM) 
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -178,7 +178,7 @@ Proyectos 2023
 
 **Descripción**: Código empleado para resolver los problemas de la asignatura Secuenciación Genómica.
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/juancarlosbio/secuenciacion_genomica_viu'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -195,7 +195,7 @@ Proyectos 2023
 **Descripción**: Código empleado para resolver los problemas de la asignatura Trascriptómica (RNA-SEQ).
 
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/RNA-Seq_VIU'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -211,7 +211,7 @@ Proyectos 2023
 
 **Descripción**: Código empleado para resolver los problemas de la asignatura Datos Ómicos para Poblaciones, en concreto las ómicas que estudiamos fueron la Metagenómica y Metataxonómica. 
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Analisis_Datos_Omicos_Poblaciones'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -234,7 +234,7 @@ Proyectos 2022
 
 * [Repositorio de las actividades de Programación en Python y R](https://github.com/JuanCarlosBio/Programacion_Python_R)
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Programacion_Python_R'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -252,7 +252,7 @@ Proyectos 2022
 
 Cabe destacar que me especialicé además en el *Sistema Operativo <u>Linux</u>*, lo que me ha ayudado a mejorar en proyectos de análisis de datos.
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Programacion_Shell_Scripting_VIU'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
