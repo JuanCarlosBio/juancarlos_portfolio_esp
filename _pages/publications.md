@@ -275,11 +275,9 @@ Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el co
 
 <p align="center">
 <img src="../images/tahonilla.jpg" width="270px">
-    <figcaption style="font-size: 12px;" align="center">Centro de Recuperación de Fauna Silvestre La Tahonilla.
-    </figcaption>
 </p>
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
@@ -301,7 +299,7 @@ Aprendí programación de forma autodidacta para analizar los datos de mis últi
   * 🧪 Avances en Bioquímica y Biología Molecular 
   * 🧬 Genética Evolutiva.
 
-<u><i>Visita el proyecto en:</i></u>
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/cuarto_carrera'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
