@@ -7,6 +7,33 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+.button {
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #000000;
+    background-color: #ffffff;
+    border: 2px solid #d6d6d6;;
+    border-radius: 12px;
+    margin: 10px;
+}
+
+.button:hover {
+    background-color: #c6e9ff;
+}
+
+.button:active {
+    background-color: #c6e9ff;
+    box-shadow: 0 3px #666;
+    transform: translateY(2px);
+}
+</style>
+
 Debido a mi gran interés por la informática, he desarrollado proyectos personales enfocados en el análisis de datos, con un especial interés en datos de origen biológico. Este enfoque me ha permitido adquirir habilidades prácticas en la gestión y procesamiento de información compleja.
 
 Comparto mis proyectos, tanto los más destacados como aquellos en los que aún estoy aprendiendo, en mi repositorio de GitHub, lo que me permite documentar y reflejar mi evolución técnica y aprendizaje continuo.
@@ -30,7 +57,12 @@ Proyectos 2024
 
 Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y plantas</u>, aunque no descarto incluir otros organismos en el futuro.
 
-[Repositorio de GitHub BiodiversidadGJC](https://github.com/JuanCarlosBio/BiodiversidadGJC) | [🌐 Sitio WEB](https://juancarlosbio.github.io/BiodiversidadGJC/)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/BiodiversidadGJC'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/BiodiversidadGJC/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+</div>
 
 ---
 
@@ -40,22 +72,32 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web para optimizar la experiencia del usuario.
 
-[Repositorio Salidas_de_Campo_CabildoGC](https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/) | [🌐 Sitio WEB](https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+</div>
 
 ---
 
-### Cuadrículas 100 x 100 Para búsqueda de especies Python 🌷🐜🔍
+### Cuadrículas para búsqueda de especies (<u>Python</u>) 🌷🐜🔍
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/images/exampe_portfolio/Captura%20de%20pantalla%202024-10-03%20165837.png?raw=true" width="200px">
 </div>
 
-**Descripción:** Flujo de Trabajo para crear cuadrículas 100 x 100 (m<sup>2</sup>) en los Espacios Naturales Protegidos, mediante el uso de Python. La idea es tener cuadrículas para cargar en IGN y guiarse mejor en estos espacios y anotar especies.
+**Descripción:** Flujo de Trabajo para crear cuadrículas de una superficie requerida (50x50 m 100x100m...) en los Espacios Naturales Protegidos, mediante el uso de Python. La idea es tener cuadrículas para cargar en IGN y guiarse mejor en estos espacios y anotar especies.
 
 Con estas capas luego se pueden análisis espaciales de especies identificadas (u otras observaciones) como la web que he desarrollado para la localización de especies nativas en la caldera de Bandama.
-
-[Repositorio Cuadriculas_Especies](https://github.com/JuanCarlosBio/Cuadriculas_Especies) | [🌐 Sitio WEB](https://juancarlosbio.github.io/Cuadriculas_Especies/)
  
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Cuadriculas_Especies'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Cuadriculas_Especies/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+</div>
+
 ---
 
 ## <u>Otros proyectos personales este año</u> 
@@ -74,7 +116,12 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 <img src="https://github.com/JuanCarlosBio/tiempo_canarias_noaa/blob/main/figures/precipitaciones_canarias.png?raw=true" width="700px">
 </p>
 
-[Repositorio de GitHub tiempo_canarias_noaa](https://github.com/JuanCarlosBio/tiempo_canarias_noaa/) | [🌐 sitio WEB](https://juancarlosbio.github.io/tiempo_canarias_noaa/)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/tiempo_canarias_noaa/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/tiempo_canarias_noaa/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+</div>
 
 ---
 
@@ -90,7 +137,12 @@ Además, me introduje en el uso de frameworks para desarrollo WEB mediante el pa
 
 <u>Actualmente, este proyecto se encuentra en desarrollo</u>.
 
-[Repositorio de GitHub para el análisis con Julia de Tortugas marinas](https://github.com/JuanCarlosBio/turtles_julia_analysis) | [🌐 Sitio WEB](https://juancarlosbio.github.io/turtles_julia_analysis/)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/turtles_julia_analysis'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/turtles_julia_analysis/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+</div>
 
 --- 
 
@@ -107,6 +159,12 @@ Proyectos 2023
 
 * **Repositorio de GitHub**: [Desarrollo de un pipeline automatizado y reproducible para análisis WES mediante el uso de SNAKEMAKE](https://github.com/JuanCarlosBio/TFM) 
 
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
+
 ---
 
 ## <u>Otras asignaturas del máster (2023)</u> 🧬 👨‍💻 📈
@@ -120,7 +178,12 @@ Proyectos 2023
 
 **Descripción**: Código empleado para resolver los problemas de la asignatura Secuenciación Genómica.
 
-* [Repositorio de las actividades de Secuenciación Genómica](https://github.com/JuanCarlosBio/Secuenciacion_Genomica_VIU)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/juancarlosbio/secuenciacion_genomica_viu'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
+
 
 ---
 
@@ -132,7 +195,12 @@ Proyectos 2023
 
 **Descripción**: Código empleado para resolver los problemas de la asignatura Trascriptómica (RNA-SEQ).
 
-* [Repositorio de las actividades de Transcriptómica](https://github.com/JuanCarlosBio/RNA-Seq_VIU)
+
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/RNA-Seq_VIU'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
 
 ---
 
@@ -144,7 +212,11 @@ Proyectos 2023
 
 **Descripción**: Código empleado para resolver los problemas de la asignatura Datos Ómicos para Poblaciones, en concreto las ómicas que estudiamos fueron la Metagenómica y Metataxonómica. 
 
-* [Repositorio de las actividades de Datos Ómicos para Poblaciones](https://github.com/JuanCarlosBio/Analisis_Datos_Omicos_Poblaciones)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Analisis_Datos_Omicos_Poblaciones'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
 
 --- 
 
@@ -163,6 +235,12 @@ Proyectos 2022
 
 * [Repositorio de las actividades de Programación en Python y R](https://github.com/JuanCarlosBio/Programacion_Python_R)
 
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Programacion_Python_R'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
+
 ---
 
 ### Actividades de Programación en Shell Scripting / BASH (VIU)
@@ -175,11 +253,18 @@ Proyectos 2022
 
 Cabe destacar que me especialicé además en el *Sistema Operativo <u>Linux</u>*, lo que me ha ayudado a mejorar en proyectos de análisis de datos.
 
-* [Repositorio de las actividades de Programación en Shell Scripting](https://github.com/JuanCarlosBio/Programacion_Shell_Scripting_VIU)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Programacion_Shell_Scripting_VIU'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
+
 
 ---
 
 ## <u>Trabajo de Fin de Grado en Biología</u> 
+
+### *Análsis estadístico de tortugas marinas varadas en Tenerife, Islas Canarias* 
 
 <div style="float: right; margin-left: 20px;">
   <img src="../images/tahonilla_tortugas.jpg" width="250px">
@@ -198,7 +283,11 @@ Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el co
     </figcaption>
 </p>
 
-* **Repositorio de GitHub**: [Análsis estadístico de tortugas marinas varadas en Tenerife, Islas Canarias](https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla) 
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
 
 --- 
 
@@ -216,6 +305,10 @@ Aprendí programación de forma autodidacta para analizar los datos de mis últi
   * 🧪 Avances en Bioquímica y Biología Molecular 
   * 🧬 Genética Evolutiva.
 
-* **Repositorio de GitHub**: [Análisis de datos de las asignaturas de Cuarto de Carrera de Biología](https://github.com/JuanCarlosBio/cuarto_carrera)
+<u><i>Visita el proyecto en:</i></u>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/cuarto_carrera'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+</div>
 
 ---
