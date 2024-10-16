@@ -186,14 +186,13 @@ Proyectos 2023
 
 ---
 
-### Actividades de Trasncriptómica (VIU)
-
 <div style="float: right; margin-left: 20px;">
   <img src="https://microbenotes.com/wp-content/uploads/2022/07/RNA-Sequencing.jpg" width="170px">
 </div>
 
-**Descripción**: Código empleado para resolver los problemas de la asignatura Trascriptómica (RNA-SEQ).
+### Actividades de Trasncriptómica (VIU)
 
+**Descripción**: Código empleado para resolver los problemas de la asignatura Trascriptómica (RNA-SEQ).
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
@@ -203,11 +202,11 @@ Proyectos 2023
 
 ---
 
-### Actividades de Datos Ómicos para Poblaciones (VIU)
-
 <div style="float: right; margin-left: 20px;">
   <img src="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-101-1-1024x615.png" width="170px">
 </div>
+
+### Actividades de Datos Ómicos para Poblaciones (VIU)
 
 **Descripción**: Código empleado para resolver los problemas de la asignatura Datos Ómicos para Poblaciones, en concreto las ómicas que estudiamos fueron la Metagenómica y Metataxonómica. 
 
@@ -224,15 +223,13 @@ Proyectos 2022
 
 ## <u>Otras asignaturas del máster (2022)</u> 🧬 👨‍💻 📈
 
-### Actividades de Programación en Python y R (VIU)
-
 <div style="float: right; margin-left: 20px;">
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQEz33xZKsngrw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1685213382501?e=1732752000&v=beta&t=oM6a_TEeZpZq4-IHTMnL3N0zZ2uCXgwsLqWHrVRtjjY" width="150px">
 </div>
 
-**Descripción**: Código empleado para resolver los problemas de la asignatura Programación en los Lenguaje de Programación [Python](https://www.python.org/) y [R](https://www.r-project.org/).
+### Actividades de Programación en Python y R (VIU)
 
-* [Repositorio de las actividades de Programación en Python y R](https://github.com/JuanCarlosBio/Programacion_Python_R)
+**Descripción**: Código empleado para resolver los problemas de la asignatura Programación en los Lenguaje de Programación [Python](https://www.python.org/) y [R](https://www.r-project.org/).
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
