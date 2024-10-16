@@ -162,7 +162,7 @@ Proyectos 2023
 <u><i>Visita el proyecto en:</i></u>
 
 <div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>Repositorio de GitHub</u></strong>
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
 </div>
 
 ---
@@ -183,7 +183,6 @@ Proyectos 2023
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/juancarlosbio/secuenciacion_genomica_viu'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
 </div>
-
 
 ---
 
