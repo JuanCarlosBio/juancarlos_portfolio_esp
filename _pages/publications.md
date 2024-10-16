@@ -61,7 +61,7 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/BiodiversidadGJC'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/BiodiversidadGJC/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/BiodiversidadGJC/'">🌐 <strong><u>Sitio WEB</u></strong></button>
 </div>
 
 ---
@@ -76,7 +76,7 @@ He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web pa
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Sitio WEB</u></strong></button>
 </div>
 
 ---
@@ -95,7 +95,7 @@ Con estas capas luego se pueden análisis espaciales de especies identificadas (
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Cuadriculas_Especies'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Cuadriculas_Especies/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Cuadriculas_Especies/'">🌐 <strong><u>Sitio WEB</u></strong></button>
 </div>
 
 ---
@@ -120,7 +120,7 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/tiempo_canarias_noaa/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/tiempo_canarias_noaa/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/tiempo_canarias_noaa/'">🌐 <strong><u>Sitio WEB</u></strong></button>
 </div>
 
 ---
@@ -141,7 +141,7 @@ Además, me introduje en el uso de frameworks para desarrollo WEB mediante el pa
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/turtles_julia_analysis'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/turtles_julia_analysis/'">🌐 <strong><u>Sitio WEB</u></strong></button></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/turtles_julia_analysis/'">🌐 <strong><u>Sitio WEB</u></strong></button>
 </div>
 
 --- 
@@ -162,7 +162,7 @@ Proyectos 2023
 <u><i>Visita el proyecto en:</i></u>
 
 <div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>Repositorio de GitHub</u></strong>
 </div>
 
 ---
