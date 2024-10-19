@@ -110,7 +110,7 @@ Este fue mi <u>primer proyecto de desarrollo web</u>.
 
 <u>El objetivo final es crear un GIF que muestre la evolución de la sequía del año 2024 en comparación con los últimos 30 años de datos de las estaciones NOAA</u>.
 
-Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de 2024 debido al Huracán Helene, que asola la ciudad. Por ello los servidores de NOAA NCEI han caído: [noticia](https://www.noaa.gov/news/noaa-ncei-websites-systems-down-due-to-helene-devastation-in-asheville-nc).  
+Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de 2024 debido al Huracán Helene, que asola la ciudad. Por ello los servidores de NOAA NCEI han caído: [noticia](https://www.noaa.gov/news/noaa-ncei-websites-systems-down-due-to-helene-devastation-in-asheville-nc). <u>Los servidores vuelven a funcionar a partir del día 17 de octubre de 2024</u>.
 
 <p align="center">
 <img src="https://github.com/JuanCarlosBio/tiempo_canarias_noaa/blob/main/figures/precipitaciones_canarias.png?raw=true" width="700px">
