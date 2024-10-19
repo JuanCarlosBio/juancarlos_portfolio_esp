@@ -85,7 +85,7 @@ Otra información
 ===
 
 * Beneficiario de <u>Garantía Juvenil</u> y del progeama <u><i>"ICENTÍVATE"</i></u>
-* 🚗 Permiso de conducir B
+* 🚗 <u>Permiso de conducir B</u> y <u>vehículo propio</u>
 * ✈ Disponibilidad para viajar️
 
 ---
