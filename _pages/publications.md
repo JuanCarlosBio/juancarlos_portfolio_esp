@@ -125,6 +125,28 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 
 ---
 
+### DASHBOARD de la meteorología de las Islas Canarias
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/newplot.png?raw=true" width="550px">
+</div>
+
+He realizado un DASHBOARD para analizar la variación de las variables de <u>temperatura y precipitación acumulada</u>, proporcionados por **Sistema de Observación Meteorológica de Canarias** (datos públicos de GRAPHCAN) para ver cómo evoluciona en los próximos años. Como en otros proyectos para automatizar la descarga de datos y su procesado me ayudo de herramientas como GitHub Actions y GitHub Pages.
+
+Entre las aplicaciones se encuentran, un mapa interactivo de canarias con la precipitación acumulada (unidades en mm), así como la temperatura del aire (ºC) para el último mes en el que se disponen datos. Aún hay cosas  que me gustaría añadir a esta WEB, pero ya está encaminada. 
+
+
+
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/meteorologia_canarias'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/meteorologia_canarias/'">🌐 <strong><u>Sitio WEB</u></strong></button>
+</div>
+
+
+---
+
 ### Análisis de Base de Datos de Tortugas Marinas usando Julia. 
 
 <div style="float: right; margin-left: 20px;">
