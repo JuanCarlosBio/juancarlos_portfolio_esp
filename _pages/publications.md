@@ -89,7 +89,7 @@ He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web pa
 
 **Descripción:** Flujo de Trabajo para crear cuadrículas de una superficie requerida (50x50 m 100x100m...) en los Espacios Naturales Protegidos, mediante el uso de Python. La idea es tener cuadrículas para cargar en IGN y guiarse mejor en estos espacios y anotar especies.
 
-Con estas capas luego se pueden análisis espaciales de especies identificadas (u otras observaciones) como la web que he desarrollado para la localización de especies nativas en la caldera de Bandama.
+Con estas capas luego se pueden realizar análisis espaciales de especies identificadas (u otras observaciones) como la web que he desarrollado para la localización de especies nativas en la caldera de Bandama.
  
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
@@ -179,8 +179,6 @@ Proyectos 2023
 
 **Descripción**: Este proyecto consistió en desarrollar un flujo de trabajo para el análisis <u>bioinformático de Next Generation Sequencing</u> utilizando el software [SNAKEMAKE](https://snakemake.github.io/), un gestor de flujos de trabajo basado en GNUmake. Snakemake es ideal para automatizar y hacer reproducibles los procesos bioinformáticos, destacando por su sintaxis en Python, lo que facilita su aprendizaje y comprensión.  
 
-* **Repositorio de GitHub**: [Desarrollo de un pipeline automatizado y reproducible para análisis WES mediante el uso de SNAKEMAKE](https://github.com/JuanCarlosBio/TFM) 
-
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
@@ -190,23 +188,6 @@ Proyectos 2023
 ---
 
 ## <u>Otras asignaturas del máster (2023)</u> 🧬 👨‍💻 📈
-
-### Actividades de Secuenciación Genómica (VIU)
-
-<div style="float: right; margin-left: 20px;">
-  <img src="https://www.pssi.com/wp-content/uploads/2022/01/GenomeSequencing-Pic1.png
-" width="170px">
-</div>
-
-**Descripción**: Código empleado para resolver los problemas de la asignatura Secuenciación Genómica.
-
-<p align="center"><u><i>Visita el proyecto en:</i></u></p>
-
-<div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/juancarlosbio/secuenciacion_genomica_viu'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-</div>
-
----
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://microbenotes.com/wp-content/uploads/2022/07/RNA-Sequencing.jpg" width="170px">
@@ -223,22 +204,6 @@ Proyectos 2023
 </div>
 
 ---
-
-<div style="float: right; margin-left: 20px;">
-  <img src="https://innovativegenomics.org/wp-content/uploads/2021/10/Metagenomics-101-1-1024x615.png" width="170px">
-</div>
-
-### Actividades de Datos Ómicos para Poblaciones (VIU)
-
-**Descripción**: Código empleado para resolver los problemas de la asignatura Datos Ómicos para Poblaciones, en concreto las ómicas que estudiamos fueron la Metagenómica y Metataxonómica. 
-
-<p align="center"><u><i>Visita el proyecto en:</i></u></p>
-
-<div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Analisis_Datos_Omicos_Poblaciones'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-</div>
-
---- 
 
 Proyectos 2022
 ===
