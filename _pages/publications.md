@@ -57,6 +57,17 @@ Proyectos 2024
 
 Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y plantas</u>, aunque no descarto incluir otros organismos en el futuro.
 
+**Algunas habilidades aprendidas:**
+
+* Programación: Python, R, Bash, JavaScript, CSS, HTML.
+* Manejo de sistemas de flujos de trabajo (Snakemake).
+* Big Data (SITECAN, Biota…).
+* Desarrollo web.
+* Gestor de paquetes Conda.
+* Visores GIS.
+* Biología: trabajo de campo, identificación de especies.
+* Análisis de datos, análisis de datos espaciales.
+
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
