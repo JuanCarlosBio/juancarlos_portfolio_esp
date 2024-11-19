@@ -66,14 +66,13 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
 🛠️ HABILIDADES
 ======
 
-<center>
-<table border="0">
+<table style="border: 1px solid white; border-collapse: collapse">
  <tr>
-    <td><b style="font-size:20px">Habilidades blandas</b></td>
-    <td><b style="font-size:20px">Habilidades técnicas</b></td>
+    <td style="border: 1px solid white;"><b style="font-size:20px">Habilidades blandas</b></td>
+    <td style="border: 1px solid white;"><b style="font-size:20px">Habilidades técnicas</b></td>
  </tr>
  <tr>
-    <td>
+    <td style="border: 1px solid white;">
         <ul>
             <li>Proactivo y con iniciativa</li>
             <li>Ganas de aprender</li>
@@ -85,19 +84,22 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
             <li>Resolución de problemas</li>
             <li>Adaptabilidad</li>
             <li>Creatividad</li>
+            <li>Pensamiento crítico</li>
         </ul>
     </td>
-    <td>
+    <td style="border: 1px solid white;">
         <ul>
             <li>Python, R, Bash, otros en menor medida (HTML, CSS...)</li>
             <li>Git y GitHub</li>
             <li>Sistemas operativos tipo UNIX</li>
-            <li>VIM</li>
             <li>Automatización</li>
             <li>Ciencia de datos, visualización</li>
+            <li>Next Generation Sequencing (NGS)</li>
+            <li>Datos espaciales (KML, SHP, GPX...)</li>
+            <li>Visores: Genómicos (IGV) y GIS (QGIS, ArcGIS, otros)</li>
+            <li>Desarrollo WEB</li>
             <li>Ofimática (Excel, Word)</li>
-            <li>Visores: Genómicos, IGV</li>
-            <li>Visores espaciales GIS: QGIS, ArcGIS, IDECanarias, otros</li>
+            <li>Medio Ambiente</li>
             <li>Salidas de campo</li>
             <li>Identificación de especies <i>in situ</i></li>
             <li>Redacción de informes técnicos</li>
@@ -109,10 +111,6 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
 <p style="font-size:16px; margin-top:20px; color:gray;">
 🧳 La verdad es que está siendo un viaje interesante.🚀
 </p>
-
-</center>
-
-
 
 ---
 
