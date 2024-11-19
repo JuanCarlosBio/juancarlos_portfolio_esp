@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-🎓 Educación
+🎓 EDUCACIÓN
 ======
 <div style="float: right; margin-left: 20px;">
   <img src="https://www.universidadviu.com/sites/universidadviu.com/themes/custom/universidadviu_com/logo.webp" width="100px">
@@ -27,7 +27,7 @@ redirect_from:
 
 ---
 
-💼 Experiencia profesional
+💼 EXPERIENCIA PROFESIONAL
 ======
 
 <div style="float: right; margin-left: 20px;">
@@ -63,25 +63,60 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
 
 ---
 
-🛠️ Habilidades
+🛠️ HABILIDADES
 ======
 
-* Proactivo y con iniciativa 
-* Ganas de aprender 
-* Comprometido 
-* Comunicación 
-* Trabajo en equipo 
-* Resolución de problemas
-* Adaptabilidad
-* Creatividad 
-* Análisis de datos
-* Informática
+<center>
+<table border="0">
+ <tr>
+    <td><b style="font-size:20px">Habilidades blandas</b></td>
+    <td><b style="font-size:20px">Habilidades técnicas</b></td>
+ </tr>
+ <tr>
+    <td>
+        <ul>
+            <li>Proactivo y con iniciativa</li>
+            <li>Ganas de aprender</li>
+            <li>Autodidacta</li>
+            <li>Resiliente</li>
+            <li>Comprometido</li>
+            <li>Comunicación</li>
+            <li>Trabajo en equipo</li>
+            <li>Resolución de problemas</li>
+            <li>Adaptabilidad</li>
+            <li>Creatividad</li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li>Python, R, Bash, otros en menor medida (HTML, CSS...)</li>
+            <li>Git y GitHub</li>
+            <li>Sistemas operativos tipo UNIX</li>
+            <li>VIM</li>
+            <li>Automatización</li>
+            <li>Ciencia de datos, visualización</li>
+            <li>Ofimática (Excel, Word)</li>
+            <li>Visores: Genómicos, IGV</li>
+            <li>Visores espaciales GIS: QGIS, ArcGIS, IDECanarias, otros</li>
+            <li>Salidas de campo</li>
+            <li>Identificación de especies <i>in situ</i></li>
+            <li>Redacción de informes técnicos</li>
+        </ul>
+    </td>
+ </tr>
+</table>
 
-Si quieres ahondar más sobre mis habilidades <u>específicas</u>, te recomeinto ver la página "[***Habilidades***](https://juancarlosbio.github.io/juancarlos_portfolio_esp//habilidades/)"
+<p style="font-size:16px; margin-top:20px; color:gray;">
+🧳 La verdad es que está siendo un viaje interesante.🚀
+</p>
+
+</center>
+
+
 
 ---
 
-Otra información
+OTRA INFORMACIÓN
 ===
 
 * Beneficiario de <u>Garantía Juvenil</u> y del progeama <u><i>"ICENTÍVATE"</i></u>
@@ -98,7 +133,7 @@ Idiomas
   
 ---
 
-Otras aficiones
+OTRAS AFICIONES
 ======
 Para que me conozcas mejor, otros intereses que tengo como hobbies:
 * 💪 Hacer ejercicio, cuerpo sano mente sana:
