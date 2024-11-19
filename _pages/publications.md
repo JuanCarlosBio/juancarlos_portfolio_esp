@@ -38,8 +38,6 @@ Debido a mi gran interés por la informática, he desarrollado proyectos persona
 
 Comparto mis proyectos, tanto los más destacados como aquellos en los que aún estoy aprendiendo, en mi repositorio de GitHub, lo que me permite documentar y reflejar mi evolución técnica y aprendizaje continuo.
 
- 
-
 Proyectos 2024
 ===
 
@@ -61,12 +59,14 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 * Programación: Python, R, Bash, JavaScript, CSS, HTML.
 * Manejo de sistemas de flujos de trabajo (Snakemake).
+* Automatización de tareas.
 * Big Data (SITECAN, Biota…).
-* Desarrollo web.
+* Desarrollo web, mantenimiento y depuración (mucha depuración 😢... me encanta).
 * Gestor de paquetes Conda.
+* Git y GitHub (GitHub Actions, GitHub Pages)
 * Visores GIS.
 * Biología: trabajo de campo, identificación de especies.
-* Análisis de datos, análisis de datos espaciales.
+* Visualización y análisis de datos biológicos y espaciales.
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
@@ -192,6 +192,18 @@ Proyectos 2023
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
+**Algunas habilidades aprendidas:**
+
+* Programación: Python, R, Bash.
+* Manejo de sistemas de flujos de trabajo (Snakemake), aprendí por mi cuenta la herramienta, me manejo con la bien con la <u>documentación</u> de heramientas a la hora de aprender.
+* Automatización de tareas.
+* Big Data (data de **<i>Next Generation Sequencing</i>**).
+* Gestor de paquetes Conda.
+* Secuenciación Genómica, protocolos básicos (FastQC, FastP, Alineamiento Bwa...)
+* Manejo de archivos relacionados con la Bioinformática (FASTQ, SAM, BAM, VCF).
+* Visores Genómicos: IGV.
+* Visualización y análisis de datos.
+
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
 </div>
@@ -271,9 +283,15 @@ Este proyecto me permitió demostrar competencias en programación, análisis es
 
 Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el control de versiones, almacenando mi código y compartiéndolo con mi tutor y el tribunal.
 
-<p align="center">
-<img src="../images/tahonilla.jpg" width="270px">
-</p>
+**Algunas habilidades aprendidas:**
+
+* Aprendizaje autónomo de programación: **R**.
+* Análisi biostadístico:
+  * Inferencia estadística, contraste de hipótesis.
+  * Aprendizaje automático no supervisado.
+  * Predicción mediante Modelo de Series temporales (SARIMA).
+* Visualización y análisis de datos.
+* Iniciación con Git y GitHub.
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
