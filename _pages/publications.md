@@ -60,13 +60,14 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 * Programación: Python, R, Bash, JavaScript, CSS, HTML.
 * Manejo de sistemas de flujos de trabajo (Snakemake).
 * Automatización de tareas.
-* Big Data (SITECAN, Biota…).
+* Big Data (SITECAN, BIOCAN).
 * Desarrollo web, mantenimiento y depuración (mucha depuración 😢... me encanta).
 * Gestor de paquetes Conda.
 * Git y GitHub (GitHub Actions, GitHub Pages)
 * Visores GIS.
 * Biología: trabajo de campo, identificación de especies.
 * Visualización y análisis de datos biológicos y espaciales.
+* SQL/MYSQL: Actualmente estoy utilizando estas herramientas para diseñar y gestionar bases de datos, específicamente creando una base de datos de especies e implementando consultas mediante tablas relacionadas (incluyendo información los datos de mis especies y de las bases de datos BIOCAN y SITECAN).
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
