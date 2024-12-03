@@ -67,7 +67,7 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 * Visores GIS.
 * Biología: trabajo de campo, identificación de especies.
 * Visualización y análisis de datos biológicos y espaciales.
-* SQL/MYSQL: Actualmente estoy utilizando estas herramientas para diseñar y gestionar bases de datos, específicamente creando una base de datos de especies e implementando consultas mediante tablas relacionadas (incluyendo información los datos de mis especies y de las bases de datos BIOCAN y SITECAN).
+* SQL/MySQL: Actualmente estoy utilizando estas herramientas para diseñar y gestionar bases de datos, específicamente creando una base de datos de especies e implementando consultas mediante tablas relacionadas (incluyendo información los datos de mis especies y de las bases de datos BIOCAN y SITECAN).
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
