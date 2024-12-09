@@ -60,35 +60,20 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 * Programación: Python, R, Bash, JavaScript, CSS, HTML.
 * Manejo de sistemas de flujos de trabajo (Snakemake).
 * Automatización de tareas.
-* Big Data (SITECAN, BIOCAN).
+* Big Data ([SITCAN](https://opendata.sitcan.es/), [BIOCAN](https://www.biodiversidadcanarias.es/)).
 * Desarrollo web, mantenimiento y depuración (mucha depuración 😢... me encanta).
 * Gestor de paquetes Conda.
 * Git y GitHub (GitHub Actions, GitHub Pages)
 * Visores GIS.
 * Biología: trabajo de campo, identificación de especies.
 * Visualización y análisis de datos biológicos y espaciales.
-* SQL/MySQL: Actualmente estoy utilizando estas herramientas para diseñar y gestionar bases de datos, específicamente creando una base de datos de especies e implementando consultas mediante tablas relacionadas (incluyendo información los datos de mis especies y de las bases de datos BIOCAN y SITECAN).
+* SQL/MySQL: Actualmente estoy utilizando estas herramientas para diseñar y gestionar bases de datos, específicamente creando una base de datos de especies e implementando consultas mediante tablas relacionadas (incluyendo información los datos de mis especies y de las bases de datos BIOCAN y SITCAN).
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/BiodiversidadGJC'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/BiodiversidadGJC/'">🌐 <strong><u>Sitio WEB</u></strong></button>
-</div>
-
----
-
-### Web de senderos obtenidos por la aplicación IGN 🗺️
-
-**Descripción**: En esta web comparto senderos obtenidos en formato KML a partir de archivos GPX generados con la aplicación del IGN.
-
-He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web para optimizar la experiencia del usuario.
-
-<p align="center"><u><i>Visita el proyecto en:</i></u></p>
-
-<div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Sitio WEB</u></strong></button>
 </div>
 
 ---
@@ -108,6 +93,23 @@ Con estas capas luego se pueden realizar análisis espaciales de especies identi
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Cuadriculas_Especies'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Cuadriculas_Especies/'">🌐 <strong><u>Sitio WEB</u></strong></button>
+</div>
+
+---
+
+### Web de senderos obtenidos por la aplicación IGN 🗺️
+
+**Descripción**: En esta web comparto senderos obtenidos en formato KML a partir de archivos GPX generados con la aplicación del IGN.
+
+He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web para optimizar la experiencia del usuario.
+
+Entiendo que pueda no parecer gran cosa, pero el código me ha resultado útil en ocasiones.
+
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Sitio WEB</u></strong></button>
 </div>
 
 ---
@@ -198,7 +200,7 @@ Proyectos 2023
 * Programación: Python, R, Bash.
 * Manejo de sistemas de flujos de trabajo (Snakemake), aprendí por mi cuenta la herramienta, me manejo con la bien con la <u>documentación</u> de heramientas a la hora de aprender.
 * Automatización de tareas.
-* Big Data (data de **<i>Next Generation Sequencing</i>**).
+* Big Data (**<i>Next Generation Sequencing</i>**).
 * Gestor de paquetes Conda.
 * Secuenciación Genómica, protocolos básicos (FastQC, FastP, Alineamiento Bwa...)
 * Manejo de archivos relacionados con la Bioinformática (FASTQ, SAM, BAM, VCF).
@@ -214,7 +216,7 @@ Proyectos 2023
 ## <u>Otras asignaturas del máster (2023)</u> 🧬 👨‍💻 📈
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://microbenotes.com/wp-content/uploads/2022/07/RNA-Sequencing.jpg" width="170px">
+  <img src="https://microbenotes.com/wp-content/uploads/2022/07/RNA-Sequencing.jpg" width="250px">
 </div>
 
 ### Actividades de Trasncriptómica (VIU)
@@ -235,7 +237,7 @@ Proyectos 2022
 ## <u>Otras asignaturas del máster (2022)</u> 🧬 👨‍💻 📈
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEz33xZKsngrw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1685213382501?e=1732752000&v=beta&t=oM6a_TEeZpZq4-IHTMnL3N0zZ2uCXgwsLqWHrVRtjjY" width="150px">
+  <img src="https://db0dce98.rocketcdn.me/es/files/2020/04/Diapositive1-1.png" width="150px">
 </div>
 
 ### Actividades de Programación en Python y R (VIU)
@@ -286,11 +288,11 @@ Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el co
 
 **Algunas habilidades aprendidas:**
 
-* Aprendizaje autónomo de programación: **R**.
-* Análisi biostadístico:
+* Aprendizaje autónomo de programación: R.
+* Análisis bioestadístico:
   * Inferencia estadística, contraste de hipótesis.
   * Aprendizaje automático no supervisado.
-  * Predicción mediante Modelo de Series temporales (SARIMA).
+  * Predicción mediante <u>modelo de series temporales</u> (SARIMA).
 * Visualización y análisis de datos.
 * Iniciación con Git y GitHub.
 

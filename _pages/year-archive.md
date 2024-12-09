@@ -46,7 +46,7 @@ Entre los softwares que he usado para estudiar datos espaciales se encuentran:
 
   <img src="https://yt3.googleusercontent.com/4umaHqwcGrVJ7pC1aAb_LeVzrl3Wx-5-RcBfUYloydlCGmr36MSEqrw6m6XAgpFuWx-VtBt8gA=s900-c-k-c0x00ffffff-no-rj" width="60x">
 
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEz33xZKsngrw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1685213382501?e=1732752000&v=beta&t=oM6a_TEeZpZq4-IHTMnL3N0zZ2uCXgwsLqWHrVRtjjY" width="70x">
+  <img src="https://db0dce98.rocketcdn.me/es/files/2020/04/Diapositive1-1.png" width="70x">
 
 </div>
 
