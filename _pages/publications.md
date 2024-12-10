@@ -57,17 +57,18 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 **Algunas habilidades aprendidas:**
 
+* Uso de herramiantas para investigación reproducible (*<u>"reproducible research"</u>*).
 * Programación: Python, R, Bash, JavaScript, CSS, HTML.
 * Manejo de sistemas de flujos de trabajo (Snakemake).
 * Automatización de tareas.
 * Big Data ([SITCAN](https://opendata.sitcan.es/), [BIOCAN](https://www.biodiversidadcanarias.es/)).
-* Desarrollo web, mantenimiento y depuración (mucha depuración 😢... me encanta).
+* Desarrollo web, mantenimiento y depuración (mucha depuración 😢... ¡me encanta!).
 * Gestor de paquetes Conda.
 * Git y GitHub (GitHub Actions, GitHub Pages)
 * Visores GIS.
 * Biología: trabajo de campo, identificación de especies.
 * Visualización y análisis de datos biológicos y espaciales.
-* SQL/MySQL: Actualmente estoy utilizando estas herramientas para diseñar y gestionar bases de datos, específicamente creando una base de datos de especies e implementando consultas mediante tablas relacionadas (incluyendo información los datos de mis especies y de las bases de datos BIOCAN y SITCAN).
+* SQL/MySQL: diseño y gestión de bases de datos. Actualmente trabajo en la creación de una base de datos de especies, integrando datos de BIOCAN y SITCAN mediante consultas y tablas relacionadas.
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
@@ -87,7 +88,9 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 **Descripción:** Flujo de Trabajo para crear cuadrículas de una superficie requerida (50x50 m 100x100m...) en los Espacios Naturales Protegidos, mediante el uso de Python. La idea es tener cuadrículas para cargar en IGN y guiarse mejor en estos espacios y anotar especies.
 
 Con estas capas luego se pueden realizar análisis espaciales de especies identificadas (u otras observaciones) como la web que he desarrollado para la localización de especies nativas en la caldera de Bandama.
- 
+
+A partir de este software, estoy desarrollando una capa de especies a una resolución de 50 m x 50 m (en formatos GPKG, KML y SHP) del <u><strong>Sitio de Interés Científico de Jinámar C-29</strong></u>. Además, estoy creando una aplicación web interactiva para analizar el inventario, que será útil para la gestión del espacio
+
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
 <div style="text-align: center;">
@@ -124,7 +127,7 @@ Este fue mi <u>primer proyecto de desarrollo web</u>.
 
 <u>El objetivo final es crear un GIF que muestre la evolución de la sequía del año 2024 en comparación con los últimos 30 años de datos de las estaciones NOAA</u>.
 
-Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de 2024 debido al Huracán Helene, que asola la ciudad. Por ello los servidores de NOAA NCEI han caído: [noticia](https://www.noaa.gov/news/noaa-ncei-websites-systems-down-due-to-helene-devastation-in-asheville-nc). <u>Los servidores vuelven a funcionar a partir del día 17 de octubre de 2024</u>.
+Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de 2024 debido al Huracán Helene, que asola la ciudad. Por ello los servidores de NOAA NCEI han caído ([noticia](https://www.noaa.gov/news/noaa-ncei-websites-systems-down-due-to-helene-devastation-in-asheville-nc)). <u>Los servidores vuelven a funcionar a partir del día 17 de octubre de 2024</u>.
 
 <p align="center">
 <img src="https://github.com/JuanCarlosBio/tiempo_canarias_noaa/blob/main/figures/precipitaciones_canarias.png?raw=true" width="700px">
@@ -197,6 +200,7 @@ Proyectos 2023
 
 **Algunas habilidades aprendidas:**
 
+* Investigación reproducible (*"reproducible research"*)
 * Programación: Python, R, Bash.
 * Manejo de sistemas de flujos de trabajo (Snakemake), aprendí por mi cuenta la herramienta, me manejo con la bien con la <u>documentación</u> de heramientas a la hora de aprender.
 * Automatización de tareas.
