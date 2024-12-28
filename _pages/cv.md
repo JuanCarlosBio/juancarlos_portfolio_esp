@@ -92,14 +92,15 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
             <li>Python, R, Bash, otros en menor medida (HTML, CSS...)</li>
             <li>Git y GitHub</li>
             <li>Sistemas operativos tipo UNIX</li>
-            <li>SQL/MySQL (básico)</li>
+            <li>SQL/MySQL</li>
+            <li>Docker</li>
             <li>Automatización</li>
             <li>Ciencia de datos, visualización</li>
             <li>Next Generation Sequencing (NGS)</li>
             <li>Datos espaciales (KML, SHP, GPX...)</li>
             <li>Visores: Genómicos (IGV) y GIS (QGIS, ArcGIS, otros)</li>
             <li>Desarrollo WEB</li>
-            <li>Ofimática (Excel, Word)</li>
+            <li>Ofimática (Excel, Word, PPT...)</li>
             <li>Medio Ambiente</li>
             <li>Salidas de campo</li>
             <li>Identificación de especies <i>in situ</i></li>

@@ -21,7 +21,7 @@ Actualmente me han ofrecido un contrato laboral de un año en el <u><strong>Cabi
 ## Labores y habilidades del oficio:
 
 <div style="float: left; margin-right: 20px;">
-  <img src="../images/profile2.png" width="280px">
+  <img src="../images/profile2.png" width="220px">
   <figcaption style="font-size: 12px;" align="center">Aventuras por el Barranco de Azuaje.</figcaption>
 </div>
 
@@ -33,27 +33,18 @@ La principal tarea del puesto consiste en la gestión pública mediante la redac
 
 Muchas veces es necesario acudir al lugar de la actuación para comprobar las intervenciones que se desean realizar y obtener una mejor idea de lo que se pretende hacer. De esta manera, he aprendido la importancia de la atención al detalle que se requiere como técnico, así como el valor de la comunicación con otros compañeros de equipo y con los propios solicitantes del encargo.
 
-### 💻 Habilidades que he desarrollado como complemento:
-
-<u><i>Análisis de datos biológicos y geoespaciales:</i></u>
-
-* Uso de Herramientas de Sistemas de Información Geográfica (SIG), así como el uso de herramientas web de Infraestructuras de Datos Espaciales (IDE).
-
-Entre los softwares que he usado para estudiar datos espaciales se encuentran:
-
-<div style="float: right; margin-right: 100px;">
-  <img src="https://www.qgis.org/img/logosign.svg" width="50px">
-
-  <img src="https://yt3.googleusercontent.com/4umaHqwcGrVJ7pC1aAb_LeVzrl3Wx-5-RcBfUYloydlCGmr36MSEqrw6m6XAgpFuWx-VtBt8gA=s900-c-k-c0x00ffffff-no-rj" width="60x">
-
-  <img src="https://db0dce98.rocketcdn.me/es/files/2020/04/Diapositive1-1.png" width="70x">
-
+### Otras tareas por iniciativa propia:
+<div style="float: right; margin-right: 20px;">
+<p align = 'center'><img src="../images/riqueza_jinamar.png" width="350px"></p> 
 </div>
 
-* [QGIS](https://github.com/qgis/QGIS) un SIG Open Source.
-* Visores de [IDECanarias](https://www.idecanarias.es/) e [IDEGranCanaria](https://www.idegrancanaria.es/) 
-* Además tengo [proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) de análsis de datos usando Python y R.
-* Software Ofimático (Microsoft Office, propio sistema del cabildo)
+Como tarea complementaria propia propuse realizar una aplicación que funcione a modo de inventario de especies en el <u><strong>Espacio Natural Protegido Sitio de Interés Científico de Jinámar C-29</u></strong>. La tarea consistió en el muestreo durante salidas de campo. En dicha aplicación se muestran tablas, gráficas :bar_chart: y mapas interactivos GIS 🗺️ para analizar datos tales como la riqueza de especies y la presencia de invasoras.
+
+Las cuadrículas de base para la aplicación la desarrollé yo mismo, y está público en un repositorio de mi GitHub: [Código fuente](https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/workflow.ipynb).
+
+Por otra parte, he estado trabajando en una <u>base de datos de EXCEL</u> para realizar un control de las actividades realizadas por el equipo de actividades de empresas contratadas por el Cabildo para realizar un seguimiento de los materiales utilizados, y analizar esos datos para estimar precios en futuros costes por encargos realizados.
+
+---
 
 Feb 2022 - Abr2 022 Animalario y estabulario del Servicio General de Apoyo a la investigación (SEGAI) ULL
 ===
