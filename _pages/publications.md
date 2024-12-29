@@ -90,7 +90,7 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 A partir de los datos de la web de especies, he creado una base de datos en MySQL, en la cual he realizado diversas consultas hasta estructurar tablas que contienen las especies que he observado en los Espacios Naturales Protegidos de la isla de Gran Canaria.
 
-Lo que realmente distingue este proyecto es que lo he utilizado principalmente para <u><strong>aprender a realizar consultas SQL y gestionar contenedores Docker</u></strong>. Estos contenedores me permiten mantener un entorno estable y compatible con las versiones necesarias para ejecutar mi software de manera continua.
+Lo que realmente distingue este proyecto es que lo he utilizado principalmente para <u><strong>aprender a realizar consultas SQL y gestionar contenedores Docker</strong></u>. Estos contenedores me permiten mantener un entorno estable y compatible con las versiones necesarias para ejecutar mi software de manera continua.
 
 Finalmente, he desarrollado una interfaz web sencilla para visualizar los datos, aunque, en este caso, lo que realmente me interesa es la información recopilada en sí misma.
 

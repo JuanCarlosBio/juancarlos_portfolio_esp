@@ -40,7 +40,7 @@ Muchas veces es necesario acudir al lugar de la actuación para comprobar las in
 <p align = 'center'><img src="../images/riqueza_jinamar.png" width="350px"></p> 
 </div>
 
-Propuse desarrollar una aplicación para llevar un inventario de especies en el Espacio Natural Protegido <u><strong>Sitio de Interés Científico de Jinámar C-29</u></strong>. Esta tarea incluyó el muestreo a través de salidas de campo y el posterior análisis de los datos recopilados.
+Propuse desarrollar una aplicación para llevar un inventario de especies en el Espacio Natural Protegido <u><strong>Sitio de Interés Científico de Jinámar C-29</strong></u>. Esta tarea incluyó el muestreo a través de salidas de campo y el posterior análisis de los datos recopilados.
 
 La aplicación presenta <u>tablas, gráficas y mapas interactivos GIS</u> que permiten visualizar y analizar información clave, como la riqueza de especies y la presencia de especies invasoras.
 
