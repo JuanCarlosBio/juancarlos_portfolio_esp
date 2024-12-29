@@ -35,7 +35,7 @@ La principal tarea del puesto consiste en la gestión pública mediante la redac
 
 Muchas veces es necesario acudir al lugar de la actuación para comprobar las intervenciones que se desean realizar y obtener una mejor idea de lo que se pretende hacer. De esta manera, he aprendido la importancia de la atención al detalle que se requiere como técnico, así como el valor de la comunicación con otros compañeros de equipo y con los propios solicitantes del encargo.
 
-### Otras tareas por iniciativa propia: :bar_chart: *Análisis de datos*
+### Otras tareas por iniciativa propia: 📊 *Análisis de datos*
 <div style="float: right; margin-right: 20px;">
 <p align = 'center'><img src="../images/riqueza_jinamar.png" width="350px"></p> 
 </div>
