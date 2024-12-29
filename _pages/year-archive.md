@@ -22,7 +22,9 @@ Actualmente me han ofrecido un contrato laboral de un año en el <u><strong>Cabi
 
 <div style="float: left; margin-right: 20px;">
   <img src="../images/profile2.png" width="220px">
-  <figcaption style="font-size: 12px;" align="center">Aventuras por el Barranco de Azuaje.</figcaption>
+    <figcaption style="font-size: 12px;" align="center">
+      Aventuras por el Barranco de Azuaje.
+    </figcaption>
 </div>
 
 ### 📋 *Redacción de Informes Técnicos*
@@ -33,16 +35,18 @@ La principal tarea del puesto consiste en la gestión pública mediante la redac
 
 Muchas veces es necesario acudir al lugar de la actuación para comprobar las intervenciones que se desean realizar y obtener una mejor idea de lo que se pretende hacer. De esta manera, he aprendido la importancia de la atención al detalle que se requiere como técnico, así como el valor de la comunicación con otros compañeros de equipo y con los propios solicitantes del encargo.
 
-### Otras tareas por iniciativa propia:
+### Otras tareas por iniciativa propia: :bar_chart: *Análisis de datos*
 <div style="float: right; margin-right: 20px;">
 <p align = 'center'><img src="../images/riqueza_jinamar.png" width="350px"></p> 
 </div>
 
-Como tarea complementaria propia propuse realizar una aplicación que funcione a modo de inventario de especies en el <u><strong>Espacio Natural Protegido Sitio de Interés Científico de Jinámar C-29</u></strong>. La tarea consistió en el muestreo durante salidas de campo. En dicha aplicación se muestran tablas, gráficas :bar_chart: y mapas interactivos GIS 🗺️ para analizar datos tales como la riqueza de especies y la presencia de invasoras.
+Propuse desarrollar una aplicación para llevar un inventario de especies en el Espacio Natural Protegido <u><strong>Sitio de Interés Científico de Jinámar C-29</u></strong>. Esta tarea incluyó el muestreo a través de salidas de campo y el posterior análisis de los datos recopilados.
 
-Las cuadrículas de base para la aplicación la desarrollé yo mismo, y está público en un repositorio de mi GitHub: [Código fuente](https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/workflow.ipynb).
+La aplicación presenta <u>tablas, gráficas y mapas interactivos GIS</u> que permiten visualizar y analizar información clave, como la riqueza de especies y la presencia de especies invasoras.
 
-Por otra parte, he estado trabajando en una <u>base de datos de EXCEL</u> para realizar un control de las actividades realizadas por el equipo de actividades de empresas contratadas por el Cabildo para realizar un seguimiento de los materiales utilizados, y analizar esos datos para estimar precios en futuros costes por encargos realizados.
+Desarrollé personalmente las cuadrículas base utilizadas en la aplicación, y el código fuente está disponible públicamente en mi repositorio de GitHub: [Código fuente](https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/workflow.ipynb).
+
+Además, he estado trabajando en una base de datos en Excel para gestionar y controlar las actividades realizadas por una de las empresas contratadas por el Cabildo, GESPLAN. Esta base de datos facilita el seguimiento de los materiales utilizados y permite analizar los datos (en un periodo del 2023 al 2024) para estimar costos en futuros encargos y optimizar la gestión económica de los proyectos.
 
 ---
 

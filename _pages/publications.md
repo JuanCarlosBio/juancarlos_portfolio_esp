@@ -79,6 +79,30 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 ---
 
+### Inventario de Espacios Naturales Protegidos de Gran Canaria 📋
+
+<div style="float: right; margin-left: 20px;">
+  <img src="../images/ejemplo_inventario.png" width="450px">
+    <figcaption style="font-size: 12px;" align="center">
+      Primeras líneas del <a href='https://juancarlosbio.github.io/inventario_especies_enp/html_enp/monumento_natural/C-14_bandama.html'>inventario del Monumento Natural de C-14 Bandama</a>.
+    </figcaption>
+</div>
+
+A partir de los datos de la web de especies, he creado una base de datos en MySQL, en la cual he realizado diversas consultas hasta estructurar tablas que contienen las especies que he observado en los Espacios Naturales Protegidos de la isla de Gran Canaria.
+
+Lo que realmente distingue este proyecto es que lo he utilizado principalmente para <u><strong>aprender a realizar consultas SQL y gestionar contenedores Docker</u></strong>. Estos contenedores me permiten mantener un entorno estable y compatible con las versiones necesarias para ejecutar mi software de manera continua.
+
+Finalmente, he desarrollado una interfaz web sencilla para visualizar los datos, aunque, en este caso, lo que realmente me interesa es la información recopilada en sí misma.
+
+<p align="center"><u><i>Visita el proyecto en:</i></u></p>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/inventario_especies_enp'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/inventario_especies_enp/'">🌐 <strong><u>Sitio WEB</u></strong></button>
+</div>
+
+---
+
 ### Cuadrículas para búsqueda de especies (<u>Python</u>) 🌷🐜🔍
 
 <div style="float: right; margin-left: 20px;">
@@ -202,7 +226,7 @@ Proyectos 2023
 
 * Investigación reproducible (*"reproducible research"*)
 * Programación: Python, R, Bash.
-* Manejo de sistemas de flujos de trabajo (Snakemake), aprendí por mi cuenta la herramienta, me manejo con la bien con la <u>documentación</u> de heramientas a la hora de aprender.
+* Manejo de sistemas de flujos de trabajo (Snakemake), aprendiendo lo básico por cuenta propia a partir de la [documentación](https://snakemake.readthedocs.io/en/stable/) de la herramienta.
 * Automatización de tareas.
 * Big Data (**<i>Next Generation Sequencing</i>**).
 * Gestor de paquetes Conda.

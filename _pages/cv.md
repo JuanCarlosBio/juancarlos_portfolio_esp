@@ -96,14 +96,15 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
             <li>Docker</li>
             <li>Automatización</li>
             <li>Ciencia de datos, visualización</li>
+            <li>Desarrollo WEB</li>
             <li>Next Generation Sequencing (NGS)</li>
             <li>Datos espaciales (KML, SHP, GPX...)</li>
             <li>Visores: Genómicos (IGV) y GIS (QGIS, ArcGIS, otros)</li>
-            <li>Desarrollo WEB</li>
             <li>Ofimática (Excel, Word, PPT...)</li>
             <li>Medio Ambiente</li>
             <li>Salidas de campo</li>
             <li>Identificación de especies <i>in situ</i></li>
+            <li>Análisis de laboratorio</li>
             <li>Redacción de informes técnicos</li>
         </ul>
     </td>
