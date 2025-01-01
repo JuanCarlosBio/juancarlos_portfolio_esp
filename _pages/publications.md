@@ -124,23 +124,6 @@ A partir de este software, estoy desarrollando una capa de especies a una resolu
 
 ---
 
-### Web de senderos obtenidos por la aplicación IGN 🗺️
-
-**Descripción**: En esta web comparto senderos obtenidos en formato KML a partir de archivos GPX generados con la aplicación del IGN.
-
-He desarrollado el flujo de trabajo, pero estoy buscando mejorar el sitio web para optimizar la experiencia del usuario.
-
-Entiendo que pueda no parecer gran cosa, pero el código me ha resultado útil en ocasiones.
-
-<p align="center"><u><i>Visita el proyecto en:</i></u></p>
-
-<div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>Repositorio de GitHub</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Sitio WEB</u></strong></button>
-</div>
-
----
-
 ## <u>Otros proyectos personales este año</u> 
 
 ### Estudio de sequía en Canarias (estaciones NOAA) ☀️ ☁️ ☔
@@ -168,15 +151,13 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 
 ### DASHBOARD de la meteorología de las Islas Canarias
 
-<div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/newplot.png?raw=true" width="550px">
-</div>
-
 He realizado un DASHBOARD para analizar la variación de las variables de <u>temperatura y precipitación acumulada</u>, proporcionados por **Sistema de Observación Meteorológica de Canarias** (datos públicos de GRAPHCAN) para ver cómo evoluciona en los próximos años. Como en otros proyectos para automatizar la descarga de datos y su procesado me ayudo de herramientas como GitHub Actions y GitHub Pages.
 
 Entre las aplicaciones se encuentran, un mapa interactivo de canarias con la precipitación acumulada (unidades en mm), así como la temperatura del aire (ºC) para el último mes en el que se disponen datos. Aún hay cosas  que me gustaría añadir a esta WEB, pero ya está encaminada. 
 
-
+<p align="center">
+  <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/portfolio_plot.png?raw=true" width="550px">
+</p>
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
