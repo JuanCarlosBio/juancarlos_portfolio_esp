@@ -9,7 +9,7 @@ redirect_from:
 
 ## **👋 ¡Hola y bienvenido a esta web!**
 
-Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi Portfolio</u>:
+Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi Portafolio</u>:
 
 <div style="float: right; margin-left: 20px;">
   <img src="images/foto_perfil3.jpg" width="230px">
