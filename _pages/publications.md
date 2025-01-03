@@ -199,7 +199,7 @@ Proyectos 2023
   <img src="https://snakemake.readthedocs.io/en/stable/_static/logo-snake.svg" width="150px">
 </div>
 
-**Descripción**: Este proyecto consistió en desarrollar un flujo de trabajo para el análisis <u>bioinformático de Next Generation Sequencing</u> utilizando el software [SNAKEMAKE](https://snakemake.github.io/), un gestor de flujos de trabajo basado en GNUmake. Snakemake es ideal para automatizar y hacer reproducibles los procesos bioinformáticos, destacando por su sintaxis en Python, lo que facilita su aprendizaje y comprensión.  
+**Descripción**: Este proyecto consistió en desarrollar un flujo de trabajo para el análisis <u>bioinformático de Next Generation Sequencing</u>, para la indentificación de variantes genómicas de una familia con historial de poliposis adenomatosa familiar (área de la salud), utilizando el software [SNAKEMAKE](https://snakemake.github.io/), un gestor de flujos de trabajo basado en GNUmake. Snakemake es ideal para automatizar y hacer reproducibles los procesos bioinformáticos, destacando por su <u>sintaxis en Python</u>, lo que facilita su aprendizaje y comprensión.  
 
 <p align="center"><u><i>Visita el proyecto en:</i></u></p>
 
