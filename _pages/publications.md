@@ -49,9 +49,9 @@ Proyectos 2024
   <img src="../images/GC_mapa.png" width="250px">
 </div>
 
-### Web de Especies de la isla de Gran Canaria observadas 🐜🌱 
+### Web de especies de la isla de Gran Canaria observadas 🐜🌱 
 
-<strong>Descripción</strong>: Esta web fue creada para la observación de especies localizadas <i>in situ</i> mediante la toma de muestras georreferenciadas a través de fotografías con el móvil . La plataforma consta de varias páginas donde se pueden observar las especies en visores, tablas interactivas y estadísticas.
+<strong>Descripción</strong>: Esta web fue creada para la observación de especies localizadas <i>in situ</i> de salidas de campo, mediante la toma de muestras georreferenciadas a través de fotografías con el móvil . La plataforma consta de varias páginas donde se pueden observar las especies en visores, tablas interactivas y estadísticas.
 
 Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y plantas</u>, aunque no descarto incluir otros organismos en el futuro.
 
@@ -59,10 +59,10 @@ Actualmente, estoy enfocándome en la búsqueda de <u>animales invertebrados y p
 
 * Uso de herramiantas para investigación reproducible (*<u>"reproducible research"</u>*).
 * Programación: Python, R, Bash, JavaScript, CSS, HTML.
-* Manejo de sistemas de flujos de trabajo (Snakemake).
+* Manejo de sistemas de flujos de trabajo (snakemake).
 * Automatización de tareas.
 * Big Data ([SITCAN](https://opendata.sitcan.es/), [BIOCAN](https://www.biodiversidadcanarias.es/)).
-* Desarrollo web, mantenimiento y depuración (mucha depuración 😢... ¡me encanta!).
+* Desarrollo web, mantenimiento y depuración.
 * Gestor de paquetes Conda.
 * Git y GitHub (GitHub Actions, GitHub Pages)
 * Visores GIS.
@@ -130,9 +130,7 @@ A partir de este software, estoy desarrollando una capa de especies a una resolu
 
 **Descripción**: Este proyecto se inspira en un tutorial de YouTube llamado [Riffomonas Project](https://www.youtube.com/@Riffomonas/featured) , creado por [Patrick Schloss](https://medschool.umich.edu/profile/2341/patrick-d-schloss), profesor en la University of Michigan Medical School. 
 
-Este fue mi <u>primer proyecto de desarrollo web</u>.
-
-<u>El objetivo final es crear un GIF que muestre la evolución de la sequía del año 2024 en comparación con los últimos 30 años de datos de las estaciones NOAA</u>.
+<u>El objetivo final es crear un GIF</u> que muestre la evolución de la sequía del año 2024 en comparación con los últimos 30 años de datos de las estaciones NOAA.
 
 Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de 2024 debido al Huracán Helene, que asola la ciudad. Por ello los servidores de NOAA NCEI han caído ([noticia](https://www.noaa.gov/news/noaa-ncei-websites-systems-down-due-to-helene-devastation-in-asheville-nc)). <u>Los servidores vuelven a funcionar a partir del día 17 de octubre de 2024</u>.
 
@@ -149,9 +147,11 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 
 ---
 
-### DASHBOARD de la meteorología de las Islas Canarias
+### Dashboard de la meteorología de las Islas Canarias
 
-He realizado un DASHBOARD para analizar la variación de las variables de <u>temperatura y precipitación acumulada</u>, proporcionados por **Sistema de Observación Meteorológica de Canarias** (datos públicos de GRAPHCAN) para ver cómo evoluciona en los próximos años. Como en otros proyectos para automatizar la descarga de datos y su procesado me ayudo de herramientas como GitHub Actions y GitHub Pages.
+He realizado un dashboard para analizar la variación de las variables de <u>temperatura y precipitación acumulada</u>, proporcionados por **Sistema de Observación Meteorológica de Canarias** (datos públicos de GRAPHCAN) para ver cómo evoluciona en los próximos años. Como en otros proyectos para automatizar la descarga de datos y su procesado me ayudo de herramientas como GitHub Actions y GitHub Pages.
+
+La razón original de este proyecto es que durante mi estancia en el cabildo, he contribuido a la realización de obras de plantanción de especies vegetales. Teniendo en cuenta de que ha sido un año seco, y siendo la lluvia un recurso natural importante para que salgan adelante las plantaciones, puede ser interesante una herramienta que obtenga datos de variables como la temperatura y la presipitación acumulada.
 
 Entre las aplicaciones se encuentran, un mapa interactivo de canarias con la precipitación acumulada (unidades en mm), así como la temperatura del aire (ºC) para el último mes en el que se disponen datos. Aún hay cosas  que me gustaría añadir a esta WEB, pero ya está encaminada. 
 

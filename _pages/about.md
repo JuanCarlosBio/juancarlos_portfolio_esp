@@ -9,7 +9,7 @@ redirect_from:
 
 ## **👋 ¡Hola y bienvenido a esta web!**
 
-Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi Portafolio</u>:
+Mi nombre es <u><strong>Juan Carlos García Estupiñán</strong></u>, si estas aquí es porque te interesa conocer más mi perfil profesional. <u>Este es mi portafolio</u>:
 
 <div style="float: right; margin-left: 20px;">
   <img src="images/foto_perfil3.jpg" width="230px">
@@ -24,7 +24,7 @@ Soy <u>Graduado en Biología</u> por la <i>Universidad de La Laguna (ULL)</i>, d
 Por otra parte, me encanta la informática, lo que me permite analizar mis datos, y llevar a la pantalla formas interesantes para compartir mis descubrimientos. Por ello me especialicé con un <u>Máster Oficial en Bioinformática</u> gracias a la <i>Universidad Internacional de Valencia (VIU)</i>.
 </p>
 
-Mis estudios académicos me han dado oportunidades laborales tales como trabajar en el Servicio General de Apoyo a la Investigación (SEGAI) de la universidad de la Laguna (ULL), donde trabajé como técnico de estabulario y animalario. En la actualidad me encuentro en una estancia en el Servicio Técnico de Medio Ambiente del Cabildo de Gran Canaria como <u>Técnico Superior, Graduado en Biología</u>.
+Mis estudios académicos me han dado oportunidades laborales tales como trabajar en el Servicio General de Apoyo a la Investigación (SEGAI) de la universidad de la Laguna (ULL), donde trabajé como técnico de estabulario y animalario. En la actualidad me encuentro en una estancia en el servicio técnico de Medio Ambiente del Cabildo de Gran Canaria como <u>técnico, Graduado en Biología</u>.
 
 
 ¿Cuál es mi objetivo profesional?
@@ -33,6 +33,6 @@ Mis estudios académicos me han dado oportunidades laborales tales como trabajar
 
 ### Si quieres saber más sobre mí, y conocer en mayor detalle mi perfil, te invito a leer el resto de contenido de esta web:
 
-* [Mi Curriculum Vitae (versión digital)](https://juancarlosbio.github.io/juancarlos_portfolio_esp//cv/)
-* [Mi Experiencia Profesional](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/)
-* [Mis Proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
+* [Mi curriculum vitae (versión digital)](https://juancarlosbio.github.io/juancarlos_portfolio_esp//cv/)
+* [Mi experiencia profesional](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/)
+* [Mis proyectos](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)

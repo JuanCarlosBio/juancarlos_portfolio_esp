@@ -34,9 +34,9 @@ redirect_from:
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-* **2024 - ACTUALIDAD**: Servicio Técnico de Medio Ambiente
+* **2024 - ACTUALIDAD**: servicio técnico de Medio Ambiente
   * Institución: Cabildo Insular de Gran Canaria
-  * Puesto desempeñado: 🌲 Técnico de Medio Ambiente / Graduado en Biología
+  * Puesto desempeñado: 🌲 Técnico de Medio Ambiente
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px">
@@ -56,8 +56,7 @@ Como gran aficionado de la informática me he dedicado a hacer proyectos inform�
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="70px">
 </div>
 
-* *"El juego es la forma más elevada de investigación" - Albert Einstein*
-* <u>2021 - ACTUALIDAD</u>: Proyectos de de programación/analista de datos en mi [**GitHub**](https://github.com/JuanCarlosBio)
+* <u>2021 - ACTUALIDAD</u>: Proyectos de de programación y analista de datos en mi [**GitHub**](https://github.com/JuanCarlosBio)
 
 Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
 
@@ -144,7 +143,7 @@ Proyectos de interés de la página [***"Proyectos"***](https://juancarlosbio.gi
 OTRA INFORMACIÓN
 ===
 
-* Beneficiario de <u>Garantía Juvenil</u> y del progeama <u><i>"ICENTÍVATE"</i></u>
+* Beneficiario de <u>Garantía Juvenil</u> y del programa <u><i>"ICENTÍVATE"</i></u>
 * 🚗 <u>Permiso de conducir B</u> y <u>vehículo propio</u>
 * ✈ Disponibilidad para viajar️
 
@@ -162,7 +161,7 @@ OTRAS AFICIONES
 ======
 Para que me conozcas mejor, otros intereses que tengo como hobbies:
 * 💪 Hacer ejercicio, cuerpo sano mente sana:
-  * Levantamiento de pesas, correr, senderismo, natación. 
+  * Levantamiento de pesas, correr, senderismo. 
 * 📕 Lectura:
   * Ahora mismo me estoy leyendo <i>Charles Darwin y el Origen  de las especies</i>.
 * 🎼 Música:
