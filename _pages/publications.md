@@ -151,7 +151,7 @@ Desgraciadamente ocurre una catástrofe en Asheville el día 28 de septiembre de
 
 He realizado un dashboard para analizar la variación de las variables de <u>temperatura y precipitación acumulada</u>, proporcionados por **Sistema de Observación Meteorológica de Canarias** (datos públicos de GRAPHCAN) para ver cómo evoluciona en los próximos años. Como en otros proyectos para automatizar la descarga de datos y su procesado me ayudo de herramientas como GitHub Actions y GitHub Pages.
 
-La razón original de este proyecto es que durante mi estancia en el cabildo, he contribuido a la realización de obras de plantanción de especies vegetales. Teniendo en cuenta de que ha sido un año seco, y siendo la lluvia un recurso natural importante para que salgan adelante las plantaciones, puede ser interesante una herramienta que obtenga datos de variables como la temperatura y la presipitación acumulada.
+La razón original de este proyecto es que durante mi estancia en el cabildo, he contribuido a la realización de obras de plantanción de especies vegetales. Teniendo en cuenta de que ha sido un año seco, y siendo la lluvia un recurso natural importante para que salgan adelante las plantaciones, puede ser interesante una herramienta que obtenga datos de variables como la temperatura y la precipitación acumulada.
 
 Entre las aplicaciones se encuentran, un mapa interactivo de canarias con la precipitación acumulada (unidades en mm), así como la temperatura del aire (ºC) para el último mes en el que se disponen datos. Aún hay cosas  que me gustaría añadir a esta WEB, pero ya está encaminada. 
 
