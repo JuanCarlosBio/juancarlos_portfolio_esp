@@ -46,7 +46,7 @@ La aplicación presenta <u>tablas, gráficas y mapas interactivos GIS</u> que pe
 
 Desarrollé personalmente las cuadrículas base utilizadas en la aplicación, y el código fuente está disponible públicamente en mi repositorio de GitHub: [Código fuente](https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/workflow.ipynb). Si les interesa ver el resto del código de la aplicación y el resultado final, contacten conmigo.
 
-Además, he estado trabajando en una base de datos en Excel para gestionar y controlar las actividades realizadas por una de las empresas contratadas por el Cabildo, GESPLAN (S.A.). Esta base de datos facilita el seguimiento de los materiales utilizados y permite analizar los datos (en un periodo del 2023 al 2024) para estimar costos en futuros encargos y optimizar la gestión económica de los proyectos.
+Además, he desarrollado una base de datos en Excel para gestionar y controlar las actividades realizadas por una de las empresas contratadas por el Cabildo, GESPLAN S.A. Esta herramienta facilita el seguimiento de los materiales utilizados y permite analizar los datos correspondientes al período 2023-2024. Gracias a esto, es posible estimar costos para futuros encargos y optimizar la gestión económica de los proyectos.
 
 ---
 
