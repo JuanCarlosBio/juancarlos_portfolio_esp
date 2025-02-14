@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Feb 2024 - <u>ACTUALIDAD Cabildo Insular de Gran Canaria</u>
+Ene 2024 - <u>Enero 2025 Cabildo Insular de Gran Canaria</u>
 ===
 
 <div style="float: right; margin-left: 20px;">
@@ -34,6 +34,12 @@ La principal tarea del puesto consiste en la gestión pública mediante la redac
 ### 🥾 *Salidas de campo*
 
 Muchas veces es necesario acudir al lugar de la actuación para comprobar las intervenciones que se desean realizar y obtener una mejor idea de lo que se pretende hacer. De esta manera, he aprendido la importancia de la atención al detalle que se requiere como técnico, así como el valor de la comunicación con otros compañeros de equipo y con los propios solicitantes del encargo.
+
+### 🌲💬 *Tareas de Educación Ambiental*
+
+Participé en salidas de campo con fines de educación ambiental, organizando eventos para concienciar sobre la biodiversidad de Canarias. Durante estas actividades, guié a grupos de personas en el reconocimiento de especies nativas y proporcioné información sobre los Espacios Naturales Protegidos de Gran Canaria.
+
+Además, llevé a cabo una investigación sobre el impacto de las aves de corral asilvestradas 🐔 en los Espacios Naturales Protegidos de la isla. Como parte de este trabajo, elaboré un mensaje informativo y lo difundí en redes sociales (Facebook) para sensibilizar sobre las afecciones causadas por estos animales y proponer medidas de actuación en caso de avistamiento en el medio silvestre. [Aportación en Facebook](https://www.facebook.com/share/p/1BS8Gta6gA/).
 
 ### Otras tareas por iniciativa propia: 📊 *Análisis de datos*
 <div style="float: right; margin-right: 20px;">

@@ -38,8 +38,13 @@ Debido a mi gran interés por la informática, he desarrollado proyectos persona
 
 Comparto mis proyectos, tanto los más destacados como aquellos en los que aún estoy aprendiendo, en mi repositorio de GitHub, lo que me permite documentar y reflejar mi evolución técnica y aprendizaje continuo.
 
-Proyectos 2024
-===
+# Tabla de contenidos:
+1. [Poryectos de 2024](#proyectos-de-2024)
+2. [Poryectos de 2023](#proyectos-de-2023)
+3. [Poryectos de 2022](#proyectos-de-2022)
+4. [Poryectos de 2021](#proyectos-de-2021)
+
+# **Proyectos de 2024**
 
 ---
 
@@ -190,8 +195,7 @@ Además, me introduje en el uso de frameworks para desarrollo WEB mediante el pa
 
 --- 
 
-Proyectos 2023
-===
+# **Proyectos de 2023**
 
 ## <u>Trabajo de Fin de Máster en Bioinformática (VIU)</u>🧬 👨‍💻 📈
 
@@ -240,8 +244,7 @@ Proyectos 2023
 
 ---
 
-Proyectos 2022
-===
+# **Proyectos de 2022**
 
 ## <u>Otras asignaturas del máster (2022)</u> 🧬 👨‍💻 📈
 
@@ -313,8 +316,7 @@ Además, aprendí de forma autodidacta a utilizar <u>Git y GitHub</u> para el co
 
 --- 
 
-Proyectos de 2021
-===
+# **Proyectos de 2021**
 
 ### Asignaturas de Cuarto de Carrera del Grado en Biología ULL
 
