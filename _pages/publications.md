@@ -60,7 +60,7 @@ Durante bastante tiempo me ha interesado la creación de **ecosistemas naturales
 <div style="float: right; margin-left: 20px;">
   <img src="../images/genero_physa.jpg" width="200px">
   <figcaption style="text-align: center;">
-    <p style="font-size: 11px;">Especie de caracol<br>del género <i>Physa</i></p>
+    <p style="font-size: 11px;">Especie de caracol<br>posiblemente <i>Physella acuta</i></p>
   </figcaption>
 </div>
 
