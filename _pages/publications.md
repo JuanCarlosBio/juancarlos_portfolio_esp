@@ -51,7 +51,7 @@ Comparto mis proyectos, tanto los más destacados como aquellos en los que aún 
 
 ## Ecosistemas naturales: <u>terrarios y ecoesferas</u>
 
-Durante bastante tiempo me ha interesado la creación de ecosistemas naturales *autosostenibles*, tanto acuáticos como terrestres, en frascos sellados.
+Durante bastante tiempo me ha interesado la creación de **ecosistemas naturales autosostenibles**, tanto <u>acuáticos como terrestres</u>, en frascos sellados. Está basado en el concepto de *"[ecoesfera](https://es.wikipedia.org/wiki/Ecoesfera)"*.
 
 <div style="float: right; margin-left: 20px;">
   <img src="../images/frascos_ecosistemas.jpg" width="250px">
@@ -64,10 +64,10 @@ Durante bastante tiempo me ha interesado la creación de ecosistemas naturales *
   </figcaption>
 </div>
 
-<u>Ecoesfera</u>: **Simulación de un ambiente acuático**. Se realiza una salida de campo para recoger muestras de agua estancada, asegurando obtener sustrato con microorganismos, fauna, algas y plantas que realicen la fotosíntesis para mantener el ecosistema.
+<u><strong>Ecoesfera acuática</strong></u>: *Simulación de un ambiente acuático*. Se realiza una salida de campo para recoger muestras de agua estancada, asegurando obtener sustrato con microorganismos, fauna, algas y plantas que realicen la fotosíntesis para mantener el ecosistema.
 
 
-<u>Terrario</u>: **Simulación de un ambiente terrestre**. Primero se coloca una capa de drenaje, como grava, seguida de una capa de tierra muestreada que contiene microbios, plantas y fauna que darán vida al ecosistema.
+<u><strong>Terrario</strong></u>: *Simulación de un ambiente terrestre*. Primero se coloca una capa de drenaje, como grava, seguida de una capa de tierra muestreada que contiene microbios, plantas y fauna que darán vida al ecosistema.
 
 
 
