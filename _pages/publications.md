@@ -39,14 +39,49 @@ Debido a mi gran interés por la informática, he desarrollado proyectos persona
 Comparto mis proyectos, tanto los más destacados como aquellos en los que aún estoy aprendiendo, en mi repositorio de GitHub, lo que me permite documentar y reflejar mi evolución técnica y aprendizaje continuo.
 
 # Tabla de contenidos:
-1. [Poryectos de 2024](#proyectos-de-2024)
-2. [Poryectos de 2023](#proyectos-de-2023)
-3. [Poryectos de 2022](#proyectos-de-2022)
-4. [Poryectos de 2021](#proyectos-de-2021)
-
-# **Proyectos de 2024**
+1. [Poryectos de 2025](#proyectos-de-2025)
+2. [Poryectos de 2024](#proyectos-de-2024)
+3. [Poryectos de 2023](#proyectos-de-2023)
+4. [Poryectos de 2022](#proyectos-de-2022)
+5. [Poryectos de 2021](#proyectos-de-2021)
 
 ---
+
+# **Proyectos de 2025**
+
+## Ecosistemas naturales: <u>terrarios y ecoesferas</u>
+
+Durante bastante tiempo me ha interesado la creación de ecosistemas naturales *autosostenibles*, tanto acuáticos como terrestres, en frascos sellados.
+
+<div style="float: right; margin-left: 20px;">
+  <img src="../images/frascos_ecosistemas.jpg" width="250px">
+</div>
+
+<div style="float: right; margin-left: 20px;">
+  <img src="../images/genero_physa.jpg" width="200px">
+  <figcaption style="text-align: center;">
+    <p style="font-size: 11px;">Especie de caracol<br>del género <i>Physa</i></p>
+  </figcaption>
+</div>
+
+<u>Ecoesfera</u>: **Simulación de un ambiente acuático**. Se realiza una salida de campo para recoger muestras de agua estancada, asegurando obtener sustrato con microorganismos, fauna, algas y plantas que realicen la fotosíntesis para mantener el ecosistema.
+
+
+<u>Terrario</u>: **Simulación de un ambiente terrestre**. Primero se coloca una capa de drenaje, como grava, seguida de una capa de tierra muestreada que contiene microbios, plantas y fauna que darán vida al ecosistema.
+
+
+
+Mi objetivo es montar un laboratorio casero, invirtiendo en un equipo de grabación para observar los organismos en cada frasco y estudiar cómo evolucionan los ecosistemas hasta estabilizarse. Esto me permitirá profundizar en principios de ecología y técnicas analíticas de laboratorio mediante distintos experimentos.
+
+Una vez tenga el equipo, me gustaría compartir mis descubrimientos en redes sociales.
+
+<p  align="center">
+  <img src="../images/comienzos.jpg" width="350px">
+</p>
+
+---
+
+# **Proyectos de 2024**
 
 ## <u>Estancia en el Cabildo de Gran Canaria (Medio Ambiente)</u> 🥾 
 
