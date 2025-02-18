@@ -40,16 +40,29 @@ Comparto mis proyectos, tanto los más destacados como aquellos en los que aún 
 
 # Tabla de contenidos:
 1. [Poryectos de 2025](#proyectos-de-2025)
+    1.1. [Ecosistemas naturales: <u>terrarios y ecoesferas</u> 🔬🐜🌱](#ecosistemas-naturales-terrarios-y-ecoesferas-)
 2. [Poryectos de 2024](#proyectos-de-2024)
+    2.1. [Web de especies de la isla de Gran Canaria observadas 🐜🌱](#web-de-especies-de-la-isla-de-gran-canaria-observadas-)
+    2.2. [Inventario de Espacios Naturales Protegidos de Gran Canaria 📋](#inventario-de-espacios-naturales-protegidos-de-gran-canaria-)
+    2.3. [Cuadrículas para búsqueda de especies (<u>Python</u>) 🌷🐜🔍](#cuadrículas-para-búsqueda-de-especies-python-)
+    2.4. [Estudio de sequía en Canarias (estaciones NOAA) ☀️ ☁️ ☔](#estudio-de-sequía-en-canarias-estaciones-noaa-️-️-)
+    2.5. [Dashboard de la meteorología de las Islas Canarias](#dashboard-de-la-meteorología-de-las-islas-canarias)
+    2.6. [Análisis de Base de Datos de Tortugas Marinas usando Julia](#análisis-de-base-de-datos-de-tortugas-marinas-usando-julia)
 3. [Poryectos de 2023](#proyectos-de-2023)
+    3.1. [<u>Trabajo de Fin de Máster en Bioinformática (VIU)</u>🧬 👨‍💻 📈](#trabajo-de-fin-de-máster-en-bioinformática-viu--)
+    3.2. [Actividades de Trasncriptómica (VIU)](#actividades-de-trasncriptómica-viu)
 4. [Poryectos de 2022](#proyectos-de-2022)
+    4.1. [Actividades de Programación en Python y R (VIU)](#actividades-de-programación-en-python-y-r-viu)
+    4.2. [Actividades de Programación en Shell Scripting / BASH (VIU)](#actividades-de-programación-en-shell-scripting--bash-viu)
+    4.3. [Análsis estadístico de tortugas marinas varadas en Tenerife, Islas Canarias](#análsis-estadístico-de-tortugas-marinas-varadas-en-tenerife-islas-canarias)
 5. [Poryectos de 2021](#proyectos-de-2021)
+    5.1. [Asignaturas de Cuarto de Carrera del Grado en Biología ULL](#asignaturas-de-cuarto-de-carrera-del-grado-en-biología-ull)
 
 ---
 
 # **Proyectos de 2025**
 
-## Ecosistemas naturales: <u>terrarios y ecoesferas</u>
+## Ecosistemas naturales: <u>terrarios y ecoesferas</u> 🔬🐜🌱
 
 Durante bastante tiempo me ha interesado la creación de **ecosistemas naturales autosostenibles**, tanto <u>acuáticos como terrestres</u>, en frascos sellados. Está basado en el concepto de *"[ecoesfera](https://es.wikipedia.org/wiki/Ecoesfera)"*.
 
