@@ -105,12 +105,17 @@ La muestra de agua fue recolectada en la **Finca del Galeón en Santa Brígida**
 
 <p  align="center">
   <img src="../images/Estanque1.jpg" width="262px">
-  <img src="../images/Estanque2.jpg" width="350px">
     <figcaption style="text-align: center;">
-      <p style="font-size: 11px;"><i><strong>Izquierda:</strong> Zona con agua estancada donde tomé la muestra de agua. <strong>Derecha:</strong> zona donde tomé muestras adicionales de algas.</i></p>
+      <p style="font-size: 11px;"><i>Zona con agua estancada donde se tomé la muestra de agua.</i></p>
     </figcaption>
 </p>
 
+<p  align="center">
+  <img src="../images/Estanque2.jpg" width="350px">
+    <figcaption style="text-align: center;">
+      <p style="font-size: 11px;"><i>Zona donde tomé muestras adicionales de algas.</i></p>
+    </figcaption>
+</p>
 ---
 
 # **Proyectos de 2024**
