@@ -73,7 +73,7 @@ Durante bastante tiempo me ha interesado la creación de **ecosistemas naturales
 <div style="float: right; margin-left: 20px;">
   <img src="../images/genero_physa.jpg" width="200px">
   <figcaption style="text-align: center;">
-    <p style="font-size: 11px;">Especie de caracol<br>posiblemente <i>Physella acuta</i></p>
+    <p style="font-size: 11px;">Especie de caracol,<br>posiblemente <i>Physella acuta</i>.</p>
   </figcaption>
 </div>
 
@@ -82,14 +82,33 @@ Durante bastante tiempo me ha interesado la creación de **ecosistemas naturales
 
 <u><strong>Terrario</strong></u>: *Simulación de un ambiente terrestre*. Primero se coloca una capa de drenaje, como grava, seguida de una capa de tierra muestreada que contiene microbios, plantas y fauna que darán vida al ecosistema.
 
-
-
 Mi objetivo es montar un laboratorio casero, invirtiendo en un equipo de grabación para observar los organismos en cada frasco y estudiar cómo evolucionan los ecosistemas hasta estabilizarse. Esto me permitirá profundizar en principios de ecología y técnicas analíticas de laboratorio mediante distintos experimentos.
 
 Una vez tenga el equipo, me gustaría compartir mis descubrimientos en redes sociales.
 
 <p  align="center">
   <img src="../images/comienzos.jpg" width="350px">
+</p>
+
+### Descubrimiento interesante:
+
+<div style="float: right; margin-left: 20px;">
+  <img src="../images/hidra2.jpg" width="350px">
+  <figcaption style="text-align: center;">
+    <p style="font-size: 11px;">Especie de hidra, posiblemente <i>Hydra oligactis</i>.</p>
+  </figcaption>
+</div>
+
+A fecha <strong><u>19 de febrero de 2025</u></strong>, hago un descubrimiento de lo que creo que es una especie no observada en Canarias hasta la fecha, o al menos no la encuentro registrada en el Banco de Biodiversidad de Canarias ([BIOCAN](https://www.biodiversidadcanarias.es/)). Se trata de una especie del género ***Hydra***, en concreto creo que es la hidra marrón, [*Hydra oligactis*](https://es.wikipedia.org/wiki/Hydra_oligactis#cite_ref-1) (aunque hay varias especies, no hay registros de ninguna otra especie de este género), encontrada enganchada en una de las hojas del sustrato.
+
+La muestra de agua fue recolectada en la **Finca del Galeón en Santa Brígida**, Isla de Gran Canaria.
+
+<p  align="center">
+  <img src="../images/Estanque1.jpg" width="262px">
+  <img src="../images/Estanque2.jpg" width="350px">
+    <figcaption style="text-align: center;">
+      <p style="font-size: 11px;"><i><strong>Izquierda:</strong> Zona con agua estancada donde tomé la muestra de agua. <strong>Derecha:</strong> zona donde tomé muestras adicionales de algas.</i></p>
+    </figcaption>
 </p>
 
 ---
