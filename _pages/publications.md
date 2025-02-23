@@ -104,18 +104,12 @@ A fecha <strong><u>19 de febrero de 2025</u></strong>, hago un descubrimiento de
 La muestra de agua fue recolectada en la **Finca del Galeón en Santa Brígida**, Isla de Gran Canaria.
 
 <p  align="center">
-  <img src="../images/Estanque1.jpg" width="262px">
+  <img src="../images/Estanque1.jpg" width="350px">
     <figcaption style="text-align: center;">
       <p style="font-size: 11px;"><i>Zona con agua estancada donde se tomé la muestra de agua.</i></p>
     </figcaption>
 </p>
 
-<p  align="center">
-  <img src="../images/Estanque2.jpg" width="350px">
-    <figcaption style="text-align: center;">
-      <p style="font-size: 11px;"><i>Zona donde tomé muestras adicionales de algas.</i></p>
-    </figcaption>
-</p>
 ---
 
 # **Proyectos de 2024**
