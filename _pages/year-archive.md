@@ -16,7 +16,7 @@ Ene 2024 - <u>Enero 2025 Cabildo Insular de Gran Canaria</u>
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-Actualmente me han ofrecido un contrato laboral de un año en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> gracias a la oportunidad proporcionada por el proyecto Nuevas Oportunidades de Empleo (NOE). En concreto, mi puesto se trata de <u><strong>Técnico de Medio Ambiente, Graduado en Biología</strong></u>
+Me ofrecieron un contrato laboral de un año en el <u><strong>Cabildo Insular de Gran Canaria</strong></u>, en el <u><strong>Servicio Técnico de Medio Ambiente</strong></u> gracias a la oportunidad proporcionada por el proyecto Nuevas Oportunidades de Empleo (NOE). En concreto, mi puesto se trató de <u><strong>técnico de medio ambiente, Graduado en Biología</strong></u>
 
 ## Labores y habilidades del oficio:
 
