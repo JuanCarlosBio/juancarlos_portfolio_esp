@@ -99,7 +99,9 @@ Una vez tenga el equipo, me gustaría compartir mis descubrimientos en redes soc
   </figcaption>
 </div>
 
-A fecha <strong><u>19 de febrero de 2025</u></strong>, hago un descubrimiento de lo que creo que es una especie no observada en Canarias hasta la fecha, o al menos no la encuentro registrada en el Banco de Biodiversidad de Canarias ([BIOCAN](https://www.biodiversidadcanarias.es/)). Se trata de una especie del género ***Hydra***, en concreto creo que es la hidra marrón, [*Hydra oligactis*](https://es.wikipedia.org/wiki/Hydra_oligactis#cite_ref-1) (aunque hay varias especies, no hay registros de ninguna otra especie de este género), encontrada enganchada en una de las hojas del sustrato.
+A fecha <strong><u>19 de febrero de 2025</u></strong>, hago un descubrimiento de lo que creo que es una especie no observada en Canarias hasta la fecha, o al menos no la encuentro registrada en el Banco de Biodiversidad de canarias ([BIOCAN](https://www.biodiversidadcanarias.es/)). Se trata de una especie del género ***Hydra***, en concreto creo que es la hidra marrón, [*Hydra oligactis*](https://es.wikipedia.org/wiki/Hydra_oligactis#cite_ref-1) (aunque hay varias especies, no hay registros de ninguna otra especie de este género), encontrada enganchada en una de las hojas del sustrato.
+
+###### (!Tengo que decir que me parece un animal chulísimo!)
 
 La muestra de agua fue recolectada en la **Finca del Galeón en Santa Brígida**, Isla de Gran Canaria.
 
