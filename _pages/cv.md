@@ -34,7 +34,7 @@ redirect_from:
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-* **2024 - ACTUALIDAD**: servicio técnico de Medio Ambiente
+* **Enero 2024 - Enero 2025**: servicio técnico de Medio Ambiente
   * Institución: Cabildo Insular de Gran Canaria
   * Puesto desempeñado: 🌲 Técnico de Medio Ambiente
 
