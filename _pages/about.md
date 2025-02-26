@@ -24,7 +24,7 @@ Soy <u>Graduado en Biología</u> por la <i>Universidad de La Laguna (ULL)</i>, d
 Por otra parte, me encanta la informática, lo que me permite analizar mis datos, y llevar a la pantalla formas interesantes para compartir mis descubrimientos. Por ello me especialicé con un <u>Máster Oficial en Bioinformática</u> gracias a la <i>Universidad Internacional de Valencia (VIU)</i>.
 </p>
 
-Mis estudios académicos me han dado oportunidades laborales tales como trabajar en el Servicio General de Apoyo a la Investigación (SEGAI) de la universidad de la Laguna (ULL), donde trabajé como técnico de estabulario y animalario. En la actualidad me encuentro en una estancia en el servicio técnico de Medio Ambiente del Cabildo de Gran Canaria como <u>técnico, Graduado en Biología</u>.
+Mis estudios académicos me han brindado oportunidades laborales como trabajar en el Servicio General de Apoyo a la Investigación (SEGAI) de la Universidad de La Laguna (ULL), donde desempeñé el rol de técnico de estabulario y animalario. En esta posición, adquirí habilidades en el mantenimiento de instalaciones biomédicas, bienestar animal y técnicas de laboratorio, entre otras. Además, mi experiencia más reciente ha sido en el servicio técnico de Medio Ambiente del Cabildo de Gran Canaria como <u>técnico, Graduado en Biología</u>, donde desarrollé competencias en gestión medioambiental y sostenibilidad.
 
 
 ¿Cuál es mi objetivo profesional?
